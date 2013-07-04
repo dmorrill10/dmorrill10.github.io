@@ -1,8 +1,8 @@
---
+---
 layout: post
 category: software design
-tagline: "Things I'd like to change"
-tags: [acpc, poker, rails, design, refactoring, testing, modularity]
+tagline: Things I'd like to change
+tags: [acpc, poker, rails, design, refactoring, testing, modularity, software]
 ---
 {% include JB/setup %}
 
