@@ -15,7 +15,7 @@ Computational game theory and machine learning graduate student
 
 ## Currently
 
-Studying at The University of Alberta. Began a Ph.D. program in January 2016 and completed a M.Sc degree in April 2016, also at The University of Alberta. Research interests include learning in games, game theory, agent modeling, and online learning.
+Studying at The University of Alberta. Began a Ph.D. program in January 2016 and completed a M.Sc degree in April 2016, also at The University of Alberta. Research interests include learning in games, game theory, deep learning, and online learning.
 
 ## Education
 
