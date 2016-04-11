@@ -22,10 +22,10 @@ Studying at The University of Alberta. Began a Ph.D. program in January 2016 and
 `2016-present`
 **Ph.D., Computing Science**, The University of Alberta
 
-Co-supervisors: Professor Michael Bowling and Professor Rich Sutton
-
 `2014-2016`
 **M.Sc., Computing Science**, The University of Alberta
+
+Thesis Title: Using Regret Estimation to Solve Games Compactly
 
 `2008-2013`
 **B.Sc., With Honors in Computing Science**, The University of Alberta
@@ -198,6 +198,11 @@ introductory computing science assignments.
 `2015`
 Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. In *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*, pages 2138--2145. [Acceptance Rate: 26.67%].
 
+### Other Publications
+
+`2016`
+**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly.MSc thesis, Computing Science Department, University of Alberta.
+
 ## Presentations and Outreach
 
 ### Seminars
@@ -233,6 +238,11 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 *AAAMAS*
 
 ## Teaching
+
+`W2016`
+**CMPUT 275 (Introduction to Tangible Computing II)**, The University of Alberta
+
+*Part-time Teaching Assistant*
 
 `F2015`
 **CMPUT 101 (Introduction to Computing)**, The University of Alberta
