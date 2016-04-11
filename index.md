@@ -22,12 +22,10 @@ Studying at The University of Alberta. Began a Ph.D. program in January 2016 and
 `2016-present`
 **Ph.D., Computing Science**, The University of Alberta
 
-Supervisor: Professor Michael Bowling and Professor Rich Sutton
+Co-supervisors: Professor Michael Bowling and Professor Rich Sutton
 
 `2014-2016`
 **M.Sc., Computing Science**, The University of Alberta
-
-Supervisor: Professor Michael Bowling
 
 `2008-2013`
 **B.Sc., With Honors in Computing Science**, The University of Alberta
