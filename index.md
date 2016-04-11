@@ -205,7 +205,7 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 ### Other Publications
 
 `2016`
-**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. MSc thesis, Computing Science Department, University of Alberta.
+**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. MSc thesis, Computing Science Department, University of Alberta, Edmonton Alberta, Canada.
 
 ## Presentations and Outreach
 
