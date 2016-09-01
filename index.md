@@ -22,7 +22,7 @@ Studying at The University of Alberta. Began a Ph.D. program in January 2016 and
 `2016-present`
 **Ph.D., Computing Science**, The University of Alberta
 
-Co-advisors: Professor Michael Bowling and Professor Rich Sutton
+Advisor: Professor Michael Bowling
 
 `2014-2016`
 **M.Sc., Computing Science**, The University of Alberta
@@ -242,6 +242,11 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 *AAAMAS*
 
 ## Teaching
+
+`S2016/M2016`
+**CMPUT 396 (Games, Puzzles, and Algorithms)**, The University of Alberta
+
+*Part-time Course Development Assistant*
 
 `W2016`
 **CMPUT 275 (Introduction to Tangible Computing II)**, The University of Alberta
