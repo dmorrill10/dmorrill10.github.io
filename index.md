@@ -219,6 +219,12 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 
 ### Demonstrations
 
+`2016`
+Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. Computer poker and Cepheus demonstration (2). At *CANHEIT HPCS 2016*.
+
+`2016`
+Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. Computer poker and Cepheus demonstration (1). At *CANHEIT HPCS 2016*.
+
 `2015`
 **Dustin Morrill**, Michael Johanson, and Viliam Lisy. Computer poker and Cepheus demonstration. At *Telus World of Science: Dark Matters*.
 
