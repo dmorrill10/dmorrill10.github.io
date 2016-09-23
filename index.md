@@ -39,13 +39,16 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Accolades
 
 `2016`
+**Science Graduate Scholarship ($2000)**
+
+`2016`
+**President's Doctoral Prize of Distinction ($10000)**
+
+`2016`
 **NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
 
 `2016`
 **AITF Top-Up Award ($36000)**
-
-`2016`
-**President's Doctoral Prize of Distinction ($10000)**
 
 `2015`
 **2nd-place 3-player Kuhn poker agent in the 2015 Annual Computer Poker Competition**
