@@ -3,7 +3,7 @@ layout: cv
 title: Dustin Morrill's CV
 ---
 # Dustin Morrill
-Computational game theory and machine learning graduate student
+Algorithmic game theory and machine learning graduate student
 
 <div id="webaddress">
   <a href="mailto:morrill@ualberta.ca">morrill@ualberta.ca</a>
@@ -36,19 +36,39 @@ Thesis Title: Using Regret Estimation to Solve Games Compactly
 
 Distinctions: First Class Honors, Industrial Internship Program
 
+## Publications
+
+### Journal Articles
+
+`2017`
+Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker. In *Science*, March 2, 2017.
+
+### Refereed Conferences
+
+`2015`
+Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. In *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*, pages 2138--2145. [Acceptance Rate: 26.67%].
+
+### Other Publications
+
+`2016`
+**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. MSc thesis, Computing Science Department, University of Alberta, Edmonton Alberta, Canada.
+
 ## Accolades
 
 `2016`
 **Science Graduate Scholarship ($2000)**
 
 `2016`
-**President's Doctoral Prize of Distinction ($10000)**
+**CIFAR Deep Learning Summer School 2016 Travel Grant ($500)**
 
 `2016`
 **NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
 
 `2016`
 **AITF Top-Up Award ($36000)**
+
+`2016`
+**President's Doctoral Prize of Distinction ($15700)**
 
 `2015`
 **2nd-place 3-player Kuhn poker agent in the 2015 Annual Computer Poker Competition**
@@ -64,19 +84,19 @@ Distinctions: First Class Honors, Industrial Internship Program
 - Sole author of the University of Alberta Computer Poker Research Group submission
 
 `2014`
-**NSERC Canada Graduate Scholarships-Master's Program Award ($17500)**
+**AITF Top-Up Award ($12000)**
 
 `2014`
-**AITF Top-Up Award ($12000)**
+**NSERC Canada Graduate Scholarships-Master's Program Award ($17500)**
 
 `2013`
 **NSERC Undergraduate Student Research Award ($6000)**
 
 `2011`
-**Jason Lang Scholarship ($1000)**
+**Amdahl Academic Achievement Scholarship in computing science ($1750)**
 
 `2011`
-**Amdahl Academic Achievement Scholarship in computing science ($1750)**
+**Jason Lang Scholarship ($1000)**
 
 `2010`
 **Barry J Mailloux Prize in Computing Science ($1350)**
@@ -198,18 +218,6 @@ introductory computing science assignments.
 - Contributed to the Trellis group weekly paper discussions.
 - Supervised by Professor Paul Lu.
 
-## Publications
-
-### Refereed Conferences
-
-`2015`
-Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. In *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*, pages 2138--2145. [Acceptance Rate: 26.67%].
-
-### Other Publications
-
-`2016`
-**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. MSc thesis, Computing Science Department, University of Alberta, Edmonton Alberta, Canada.
-
 ## Presentations and Outreach
 
 ### Seminars
@@ -292,6 +300,6 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 
 ## Personal Information
 - **Citizenship**: Canada
-- **Family**: Engaged
+- **Family**: Married
 - **Hobbies**: Video, card, and board games
 
