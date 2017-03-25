@@ -11,6 +11,8 @@ Algorithmic game theory and machine learning graduate student
   <i class="fa fa-github"></i> <a href="http://github.com/dmorrill10">dmorrill10</a>
   |
   <i class="fa fa-linkedin"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
+  |
+  <i class="fa fa-twitter"></i> <a href="https://twitter.com/DustinRMorrill">@DustinRMorrill</a>
 </div>
 
 ## Currently
