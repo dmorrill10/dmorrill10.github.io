@@ -229,6 +229,9 @@ introductory computing science assignments.
 
 ### Demonstrations
 
+`2017`
+Martin Schmid, **Dustin Morrill**, and Michael Bowling. Play DeepStack on a Commodity Gaming Laptop. At *Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)*.
+
 `2016`
 Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. Computer poker and Cepheus demonstration (2). At *CANHEIT HPCS 2016*.
 
@@ -252,6 +255,19 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 
 `2013`
 **Dustin Morrill**. The Annual Computer Poker Competition Poker Graphical User Interface. At *Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)*.
+
+### Videos
+
+`2017`
+Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against the 2+2 Pokercast on Twitch](https://youtu.be/RiA3QJ3GhBk). On *twitch.com*.
+
+`2017`
+Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch](https://youtu.be/HAshTeOad2s). On *twitch.com*.
+
+### Podcasts
+
+`2017`
+Michael Johanson and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
 
 ## Academic Service
 
