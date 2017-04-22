@@ -3,7 +3,7 @@ layout: cv
 title: Dustin Morrill's CV
 ---
 # Dustin Morrill
-Algorithmic game theory and machine learning graduate student
+Algorithmic game theory and machine intelligence graduate student
 
 <div id="webaddress">
   <a href="mailto:morrill@ualberta.ca">morrill@ualberta.ca</a>
@@ -17,7 +17,7 @@ Algorithmic game theory and machine learning graduate student
 
 ## Currently
 
-Ph.D student at The University of Alberta. Research interests include algorithmic game theory, online learning, reinforcement learning, and deep learning. In particular, scaling techniques for solving and playing imperfect information games to human-scale games.
+Ph.D student at The University of Alberta. Research interests include game theory, online learning, reinforcement learning, and deep learning. In particular, methods to scale techniques that solve or play imperfect information games up to human-scale games.
 
 ## Education
 
