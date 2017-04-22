@@ -17,7 +17,7 @@ Algorithmic game theory and machine learning graduate student
 
 ## Currently
 
-Studying at The University of Alberta. Began a Ph.D. program in January 2016 and completed a M.Sc degree in April 2016, also at The University of Alberta. Research interests include learning in games, game theory, deep learning, and online learning.
+Ph.D student at The University of Alberta. Research interests include algorithmic game theory, online learning, reinforcement learning, and deep learning. In particular, scaling techniques for solving and playing imperfect information games to human-scale games.
 
 ## Education
 
@@ -124,102 +124,6 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 `2008`
 **Alexander Rutherford High School Achievement Scholarship ($2500)**
 
-## Work Experience
-
-`May 2014-present`{: class='work-experience'}
-**The University of Alberta**, Edmonton, AB, Canada
-
-*Graduate Research Assistant*
-
-- Co-developed Regression Counterfactual Regret Minimization (RCFR) algorithm in collaboration and worked to improve it.
-- Implemented RCFR and many supporting tools for experiments.
-- Ran RCFR experiments.
-- Wrote 1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition (ACPC) for the University of Alberta Computer Poker Research Group (CPRG).
-- Wrote 2nd-place 3-player Kuhn poker agent in the 2015 ACPC for the CPRG.
-
-`May-Aug 2013`{: class='work-experience'}
-**The University of Alberta**, Edmonton, AB, Canada
-
-*Undergraduate Researcher*
-
-- Added features, tests, and bug fixes to the open source, Ruby on Rails
-based ACPC Poker GUI Client project (and supporting libraries) that I
-created for the Annual Computer Poker Competition (ACPC) and the
-Computer Poker Research Group (CPRG).
-- Helped manage CPRG private server running my ACPC Poker GUI Client
-application.
-- Attended the 2013 Association for the Advancement of Artificial
-Intelligence (AAAI) conference in Bellevue, WA, USA.
-- Demonstrated the ACPC Poker GUI Client at the AAAI-2013.
-- Wrote 3-player Kuhn poker player in C for the ACPC that plays an
-equilibrium component strategy.
-- Supervised by Professor Duane Szafron.
-
-`Aug 2011-Apr 2013`{: class='work-experience'}
-**The University of Alberta**, Edmonton, AB, Canada
-
-*Undergraduate Researcher*
-
-- Designed and created the open source, Ruby on Rails based ACPC Poker
-GUI Client project (and supporting libraries) for the Annual Computer
-Poker Competition (ACPC) and the Computer Poker Research Group (CPRG).
-- Setup and co-managed CPRG private server running my ACPC Poker GUI
-Client application.
-- Supervised by Professor Duane Szafron.
-
-`May 2011-Aug 2012`{: class='work-experience'}
-**CDL Systems Ltd.**, Calgary, AB, Canada
-
-
-*Software Developer Intern*
-
-- Wrote C++ and Perl software to enhance CDL's unmanned aerial vehicle
-control station products including VCS Map, Video,
-(both used by VCS-4586) and Shadow VCS.
-- Tested and validated application correctness, including participating
-in multiple Fully Qualified Tests for both VCS Map used by VCS-4586
-and Shadow VCS.
-- Worked with a mid-size team of developers and system engineers, in
-addition to other development teams (both local and remote) within CDL.
-- Contributed to bi-weekly agile iteration planning and retrospective
-meetings, including task estimation, feature demonstration, and team
-development process discussion.
-- Participated in new feature and component refactoring design meetings by
-taking and publishing notes, and providing my professional opinion.
-- Wrote blog posts about the challenges and interesting tasks I encountered
-for all CDL developers to read and learn from.
-
-`May-Aug 2010`{: class='work-experience'}
-**The University of Alberta**, Edmonton, AB, Canada
-
-*Undergraduate Researcher*
-
-- Wrote C programs and Perl scripts to benefit the Computer Poker
-Research Group (CPRG).
-- Tested the effectiveness of different bet sizes in Texas Hold'em
-poker to determine the most useful bet sizes.
-- Contributed to CPRG meetings with experimental results.
-- Developed team software production skills utilizing the CPRG's code
-base and version control system.
-- Tested the new server for the Annual Computer Poker Competition before
-the competition began.
-- Supervised by Professor Duane Szafron.
-
-`May-Aug 2009`{: class='work-experience'}
-**The University of Alberta**, Edmonton, AB, Canada
-
-*Undergraduate Researcher*
-
-- Improved a Perl statistics calculator to do scientific calculations
-such as numerical integration and finding the molar mass of chemicals.
-- Translated Python programs, in an introductory computing science text
-book, to Perl.
-- Developed computing science assignments for the Science 100 course.
-- Led two high school internship students in the development of
-introductory computing science assignments.
-- Contributed to the Trellis group weekly paper discussions.
-- Supervised by Professor Paul Lu.
-
 ## Presentations and Outreach
 
 ### Seminars
@@ -259,15 +163,54 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 ### Videos
 
 `2017`
-Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against the 2+2 Pokercast on Twitch](https://youtu.be/RiA3QJ3GhBk). On *twitch.com*.
+Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch](https://youtu.be/ptWchEBbaOk). On *twitch.com*.
 
 `2017`
-Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch](https://youtu.be/HAshTeOad2s). On *twitch.com*.
+Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Dutch Boyd on Twitch](https://youtu.be/yAYTh1dz_AU). On *twitch.com*.
+
+`2017`
+Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against the 2+2 Pokercast on Twitch](https://youtu.be/RiA3QJ3GhBk). On *twitch.com*.
+
+`2017`
+Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch](https://youtu.be/HAshTeOad2s). On *twitch.com*.
 
 ### Podcasts
 
 `2017`
-Michael Johanson and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
+Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
+
+## Work Experience
+
+`May 2014-present`{: class='work-experience'}
+**The University of Alberta**, Edmonton
+
+*Graduate Research Assistant*
+
+`May-Aug 2013`{: class='work-experience'}
+**The University of Alberta**, Edmonton
+
+*Undergraduate Researcher*
+
+`Aug 2011-Apr 2013`{: class='work-experience'}
+**The University of Alberta**, Edmonton
+
+*Part-Time Undergraduate Researcher*
+
+`May 2011-Aug 2012`{: class='work-experience'}
+**CDL Systems Ltd.**, Calgary, AB, Canada
+
+
+*Software Developer Intern*
+
+`May-Aug 2010`{: class='work-experience'}
+**The University of Alberta**, Edmonton
+
+*Undergraduate Researcher*
+
+`May-Aug 2009`{: class='work-experience'}
+**The University of Alberta**, Edmonton
+
+*Undergraduate Researcher*
 
 ## Academic Service
 
@@ -281,24 +224,31 @@ Michael Johanson and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: 
 `S2016/M2016`
 **CMPUT 396 (Games, Puzzles, and Algorithms)**, The University of Alberta
 
-*Part-time Course Development Assistant*
+*Part-Time Course Development Assistant*
 
 `W2016`
 **CMPUT 275 (Introduction to Tangible Computing II)**, The University of Alberta
 
-*Part-time Teaching Assistant*
+*Part-Time Teaching Assistant*
 
 `F2015`
 **CMPUT 101 (Introduction to Computing)**, The University of Alberta
 
-*Full-time Teaching Assistant*
+*Full-Time Teaching Assistant*
 
 `W2014`
 **CMPUT 175 (Introduction to the Foundations of Computing II)**, The University of Alberta
 
-*Full-time Teaching Assistant*
+*Full-Time Teaching Assistant*
 
 ## Projects
+
+`2017`
+**Play DeepStack Web Application**
+
+- Web application that allows people to play [DeepStack](https://deepstack.ai/), the first program to defeat professional poker players at no-limit Texas hold'em, as shown in [Twitch streams](https://www.twitch.tv/deepstackai). See the March 2017 [*Science* article](https://webdocs.cs.ualberta.ca/~games/poker/17science.html) for more details on DeepStack and DeepStack's [YouTube channel](https://www.youtube.com/channel/UC4vSx3bbs8dbaHl2tkzU8Nw) for match videos.
+- 
+- I both developed this application and maintained DeepStack's private server during the first season of DeepStack's Twitch matches.
 
 `2015`
 **Play Cepheus Web Application**
