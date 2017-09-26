@@ -163,19 +163,19 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 ### Videos
 
 `2017`
-Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Bryan Paris on Twitch](https://www.youtube.com/watch?v=SI-i-fQBv1Y). On *twitch.com*.
+Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Bryan Paris on Twitch.tv](https://www.youtube.com/watch?v=SI-i-fQBv1Y). On *Twitch.tv*.
 
 `2017`
-Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch](https://youtu.be/ptWchEBbaOk). On *twitch.com*.
+Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch.tv](https://youtu.be/ptWchEBbaOk). On *Twitch.tv*.
 
 `2017`
-Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Dutch Boyd on Twitch](https://youtu.be/yAYTh1dz_AU). On *twitch.com*.
+Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Dutch Boyd on Twitch.tv](https://youtu.be/yAYTh1dz_AU). On *Twitch.tv*.
 
 `2017`
-Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against the 2+2 Pokercast on Twitch](https://youtu.be/RiA3QJ3GhBk). On *twitch.com*.
+Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against the 2+2 Pokercast on Twitch.tv](https://youtu.be/RiA3QJ3GhBk). On *Twitch.tv*.
 
 `2017`
-Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch](https://youtu.be/HAshTeOad2s). On *twitch.com*.
+Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch.tv](https://youtu.be/HAshTeOad2s). On *Twitch.tv*.
 
 ### Podcasts
 
@@ -260,7 +260,7 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 `2017`
 **Play DeepStack Web Application**
 
-- Web application that allows people to play [DeepStack](https://deepstack.ai/), the first program to defeat professional poker players at no-limit Texas hold'em, as shown in [Twitch streams](https://www.twitch.tv/deepstackai). See the March 2017 [*Science* article](http://poker.cs.ualberta.ca/17science.html) for more details on DeepStack and DeepStack's [YouTube channel](https://www.youtube.com/channel/UC4vSx3bbs8dbaHl2tkzU8Nw) for match videos.
+- Web application that allows people to play [DeepStack](https://deepstack.ai/), the first program to defeat professional poker players at no-limit Texas hold'em, as shown in [Twitch.tv streams](https://www.twitch.tv/deepstackai). See the March 2017 [*Science* article](http://poker.cs.ualberta.ca/17science.html) for more details on DeepStack and DeepStack's [YouTube channel](https://www.youtube.com/channel/UC4vSx3bbs8dbaHl2tkzU8Nw) for match videos.
 - 
 - I both developed this application and maintained DeepStack's private server during the first season of DeepStack's Twitch matches.
 
