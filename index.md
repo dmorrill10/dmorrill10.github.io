@@ -253,21 +253,26 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 ## Projects
 
 `2017`
+**Computer Poker Research Group Website (<http://poker.cs.ualberta.ca/>)**
+
+- Home of the computer poker research group on the internet, including references to news articles, social media, and publications. It is a major departure from the appearance of its previous version and a large portion of its code was rewritten.
+
+`2017`
 **Play DeepStack Web Application**
 
-- Web application that allows people to play [DeepStack](https://deepstack.ai/), the first program to defeat professional poker players at no-limit Texas hold'em, as shown in [Twitch streams](https://www.twitch.tv/deepstackai). See the March 2017 [*Science* article](https://webdocs.cs.ualberta.ca/~games/poker/17science.html) for more details on DeepStack and DeepStack's [YouTube channel](https://www.youtube.com/channel/UC4vSx3bbs8dbaHl2tkzU8Nw) for match videos.
+- Web application that allows people to play [DeepStack](https://deepstack.ai/), the first program to defeat professional poker players at no-limit Texas hold'em, as shown in [Twitch streams](https://www.twitch.tv/deepstackai). See the March 2017 [*Science* article](http://poker.cs.ualberta.ca/17science.html) for more details on DeepStack and DeepStack's [YouTube channel](https://www.youtube.com/channel/UC4vSx3bbs8dbaHl2tkzU8Nw) for match videos.
 - 
 - I both developed this application and maintained DeepStack's private server during the first season of DeepStack's Twitch matches.
 
 `2015`
-**Play Cepheus Web Application**
+**Play Cepheus Web Application (<http://poker-play.srv.ualberta.ca/>)**
 
-- Web application that allows people to play [Cepheus](http://poker.srv.ualberta.ca/), the solution to heads-up limit Texas hold'em computed by the [Computer Poker Research Group](https://webdocs.cs.ualberta.ca/~games/poker/) at [The University of Alberta](http://ualberta.ca/). See the January 2015 [*Science* article](https://webdocs.cs.ualberta.ca/~games/poker/15science.html) for more details. It is a modification of the [ACPC Poker GUI Client](https://github.com/dmorrill10/acpc_poker_gui_client).
+- Web application that allows people to play [Cepheus](http://poker.srv.ualberta.ca/), the solution to heads-up limit Texas hold'em computed by the [Computer Poker Research Group](http://poker.cs.ualberta.ca/) at [The University of Alberta](http://ualberta.ca/). See the January 2015 [*Science* article](http://poker.cs.ualberta.ca/15science.html) for more details. It is a modification of the [ACPC Poker GUI Client](https://github.com/dmorrill10/acpc_poker_gui_client).
 - 
 - I both developed this application and maintain Cepheus's [public server](http://poker-play.srv.ualberta.ca/).
 
 `2011`
-**ACPC Poker GUI Client**
+**ACPC Poker GUI Client (<https://github.com/dmorrill10/acpc_poker_gui_client>)**
 
 - The Annual Computer Poker Competition Poker Gui Client provides a graphical user interface with which people may play poker games against automated agents. It supports two-player and three-player limit and no-limit Texas Hold'em, as well as three-player Kuhn. It can support any game supported by the ACPC Dealer as well.
 - 
