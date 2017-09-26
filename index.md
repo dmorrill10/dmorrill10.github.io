@@ -17,7 +17,7 @@ Algorithmic game theory and machine intelligence graduate student
 
 ## Currently
 
-Ph.D student at The University of Alberta. Research interests include game theory, online learning, reinforcement learning, and deep learning. In particular, methods to scale techniques that solve or play imperfect information games up to human-scale games.
+Ph.D student at The University of Alberta studying game theoretic robust learning and optimization algorithms. Research interests lie in the fields of game theory, online learning, reinforcement learning, and deep learning.
 
 ## Education
 
@@ -163,6 +163,9 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 ### Videos
 
 `2017`
+Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Bryan Paris on Twitch](https://www.youtube.com/watch?v=SI-i-fQBv1Y). On *twitch.com*.
+
+`2017`
 Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch](https://youtu.be/ptWchEBbaOk). On *twitch.com*.
 
 `2017`
@@ -175,6 +178,12 @@ Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill
 Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch](https://youtu.be/HAshTeOad2s). On *twitch.com*.
 
 ### Podcasts
+
+`2017`
+Adam Schwartz, Terrence Chan, and **Dustin Morrill**. [TwoPlusTwo Pokercast---Episode 471](https://pokercast.twoplustwo.com/pokercast.php?pokercast=471). On *pokercast.twoplustwo.com*.
+
+`2017`
+Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. [Thinking Poker Podcast---Episode 225: Taking the Variance out of Poker](http://www.thinkingpoker.net/2017/08/episode-225-taking-the-variance-out-of-poker/). On *thinkingpoker.net*.
 
 `2017`
 Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
