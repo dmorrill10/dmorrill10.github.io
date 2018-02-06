@@ -3,7 +3,7 @@ layout: cv
 title: Dustin Morrill's CV
 ---
 # Dustin Morrill
-Algorithmic game theory and machine intelligence graduate student
+Machine intelligence graduate student
 
 <div id="webaddress">
   <a href="mailto:morrill@ualberta.ca">morrill@ualberta.ca</a>
@@ -17,24 +17,24 @@ Algorithmic game theory and machine intelligence graduate student
 
 ## Currently
 
-Ph.D student at The University of Alberta studying game theoretic robust learning and optimization algorithms. Research interests lie in the fields of game theory, online learning, reinforcement learning, and deep learning.
+Ph.D student at the [University of Alberta](https://www.ualberta.ca/) studying game theoretic robust learning and optimization. Research interests include safe artificial intelligence, game theory, and reinforcement learning.
 
 ## Education
 
 `2016-present`
-**Ph.D., Computing Science**, The University of Alberta
+**Ph.D., Computing Science**, University of Alberta
 
 Advisor: Professor Michael Bowling
 
 `2014-2016`
-**M.Sc., Computing Science**, The University of Alberta
+**M.Sc., Computing Science**, University of Alberta
 
 Advisor: Professor Michael Bowling
 
 Thesis Title: Using Regret Estimation to Solve Games Compactly
 
 `2008-2013`
-**B.Sc., With Honors in Computing Science**, The University of Alberta
+**B.Sc., With Honors in Computing Science**, University of Alberta
 
 Distinctions: First Class Honors, Industrial Internship Program
 
@@ -46,6 +46,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker. In *Science*, March 2, 2017.
 
 ### Refereed Conferences
+
+`2018`
+Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. In *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].
 
 `2015`
 Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. In *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*, pages 2138--2145. [Acceptance Rate: 26.67%].
@@ -67,10 +70,10 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 **NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
 
 `2016`
-**AITF Top-Up Award ($36000)**
+**AITF Top-Up Award (Doctoral) ($36000)**
 
 `2016`
-**President's Doctoral Prize of Distinction ($15700)**
+**President's Doctoral Prize of Distinction ($21500)**
 
 `2015`
 **2nd-place 3-player Kuhn poker agent in the 2015 Annual Computer Poker Competition**
@@ -86,7 +89,7 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 - Sole author of the University of Alberta Computer Poker Research Group submission
 
 `2014`
-**AITF Top-Up Award ($12000)**
+**AITF Top-Up Award (Masters) ($12000)**
 
 `2014`
 **NSERC Canada Graduate Scholarships-Master's Program Award ($17500)**
@@ -95,7 +98,7 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 **NSERC Undergraduate Student Research Award ($6000)**
 
 `2011`
-**Amdahl Academic Achievement Scholarship in computing science ($1750)**
+**Amdahl Academic Achievement Scholarship in Computing Science ($1750)**
 
 `2011`
 **Jason Lang Scholarship ($1000)**
@@ -133,6 +136,10 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 
 ### Demonstrations
 
+`2018`
+**Dustin Morrill**. Computer poker and DeepStack demonstration. At *Telus World of Science: Dark Matters: Game On!
+*.
+
 `2017`
 Martin Schmid, **Dustin Morrill**, and Michael Bowling. Play DeepStack on a Commodity Gaming Laptop. At *Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)*.
 
@@ -143,7 +150,7 @@ Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Micha
 Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. Computer poker and Cepheus demonstration (1). At *CANHEIT HPCS 2016*.
 
 `2015`
-**Dustin Morrill**, Michael Johanson, and Viliam Lisy. Computer poker and Cepheus demonstration. At *Telus World of Science: Dark Matters*.
+**Dustin Morrill**, Michael Johanson, and Viliam Lisy. Computer poker and Cepheus demonstration. At *Telus World of Science: Dark Matters: Game On!*.
 
 `2015`
 Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. Computer poker and Cepheus demonstration (2). At *AAAI-15 Games Showcase*.
@@ -191,17 +198,17 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 ## Work Experience
 
 `May 2014-present`{: class='work-experience'}
-**The University of Alberta**, Edmonton
+**University of Alberta**, Edmonton
 
 *Graduate Research Assistant*
 
 `May-Aug 2013`{: class='work-experience'}
-**The University of Alberta**, Edmonton
+**University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
 
 `Aug 2011-Apr 2013`{: class='work-experience'}
-**The University of Alberta**, Edmonton
+**University of Alberta**, Edmonton
 
 *Part-Time Undergraduate Researcher*
 
@@ -212,12 +219,12 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 *Software Developer Intern*
 
 `May-Aug 2010`{: class='work-experience'}
-**The University of Alberta**, Edmonton
+**University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
 
 `May-Aug 2009`{: class='work-experience'}
-**The University of Alberta**, Edmonton
+**University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
 
@@ -231,22 +238,22 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 ## Teaching
 
 `S2016/M2016`
-**CMPUT 396 (Games, Puzzles, and Algorithms)**, The University of Alberta
+**CMPUT 396 (Games, Puzzles, and Algorithms)**, University of Alberta
 
 *Part-Time Course Development Assistant*
 
 `W2016`
-**CMPUT 275 (Introduction to Tangible Computing II)**, The University of Alberta
+**CMPUT 275 (Introduction to Tangible Computing II)**, University of Alberta
 
 *Part-Time Teaching Assistant*
 
 `F2015`
-**CMPUT 101 (Introduction to Computing)**, The University of Alberta
+**CMPUT 101 (Introduction to Computing)**, University of Alberta
 
 *Full-Time Teaching Assistant*
 
 `W2014`
-**CMPUT 175 (Introduction to the Foundations of Computing II)**, The University of Alberta
+**CMPUT 175 (Introduction to the Foundations of Computing II)**, University of Alberta
 
 *Full-Time Teaching Assistant*
 
@@ -255,7 +262,7 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 `2017`
 **Computer Poker Research Group Website (<http://poker.cs.ualberta.ca/>)**
 
-- Home of the computer poker research group on the internet, including references to news articles, social media, and publications. It is a major departure from the appearance of its previous version and a large portion of its code was rewritten.
+- Home of the [University of Alberta's Computer Poker Research Group](http://poker.cs.ualberta.ca/) on the internet, including references to news articles, social media, and publications. It is a major departure from the appearance of its previous version and a large portion of its code was rewritten.
 
 `2017`
 **Play DeepStack Web Application**
@@ -267,16 +274,22 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 `2015`
 **Play Cepheus Web Application (<http://poker-play.srv.ualberta.ca/>)**
 
-- Web application that allows people to play [Cepheus](http://poker.srv.ualberta.ca/), the solution to heads-up limit Texas hold'em computed by the [Computer Poker Research Group](http://poker.cs.ualberta.ca/) at [The University of Alberta](http://ualberta.ca/). See the January 2015 [*Science* article](http://poker.cs.ualberta.ca/15science.html) for more details. It is a modification of the [ACPC Poker GUI Client](https://github.com/dmorrill10/acpc_poker_gui_client).
+- Web application that allows people to play [Cepheus](http://poker.srv.ualberta.ca/), the solution to heads-up limit Texas hold'em computed by the [Computer Poker Research Group](http://poker.cs.ualberta.ca/) at the [University of Alberta](http://ualberta.ca/). See the January 2015 [*Science* article](http://poker.cs.ualberta.ca/15science.html) for more details. It is a modification of the [ACPC Poker GUI Client](https://github.com/dmorrill10/acpc_poker_gui_client).
 - 
 - I both developed this application and maintain Cepheus's [public server](http://poker-play.srv.ualberta.ca/).
+
+`2011`
+**Various Open-Source Projects (<https://github.com/dmorrill10>)**
+
+- - 58 public repositories, 13 followers, and contributions to nine open-source projects with other owners.
+- - See [GitHub Résumé](https://resume.github.io/?dmorrill10) for more detailed information.
 
 `2011`
 **ACPC Poker GUI Client (<https://github.com/dmorrill10/acpc_poker_gui_client>)**
 
 - The Annual Computer Poker Competition Poker Gui Client provides a graphical user interface with which people may play poker games against automated agents. It supports two-player and three-player limit and no-limit Texas Hold'em, as well as three-player Kuhn. It can support any game supported by the ACPC Dealer as well.
 - 
-- This application is built with Ruby and Rails and began as an independent study project supervised by [Dr. Duane Szafron](https://webdocs.cs.ualberta.ca/~duane/) at [The University of Alberta](http://ualberta.ca/).
+- This application is built with Ruby and Rails and began as an independent study project supervised by [Dr. Duane Szafron](https://webdocs.cs.ualberta.ca/~duane/) at the [University of Alberta](http://ualberta.ca/).
 - 
 - A modified version of this application is used in the [*Play Cepheus* application](http://poker-play.srv.ualberta.ca/).
 
