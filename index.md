@@ -137,8 +137,7 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 ### Demonstrations
 
 `2018`
-**Dustin Morrill**. Computer poker and DeepStack demonstration. At *Telus World of Science: Dark Matters: Game On!
-*.
+**Dustin Morrill**. Computer poker and DeepStack demonstration. At *Telus World of Science: Dark Matters: Game On!*.
 
 `2017`
 Martin Schmid, **Dustin Morrill**, and Michael Bowling. Play DeepStack on a Commodity Gaming Laptop. At *Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)*.
