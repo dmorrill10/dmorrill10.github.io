@@ -56,7 +56,7 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 ### Other Publications
 
 `2016`
-**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. MSc thesis, Computing Science Department, University of Alberta, Edmonton Alberta, Canada.
+**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. M.Sc. thesis, Computing Science Department, University of Alberta, Edmonton Alberta, Canada.
 
 ## Accolades
 
@@ -196,36 +196,95 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 
 ## Work Experience
 
-`May 2014-present`{: class='work-experience'}
+``May 2014-present``{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Graduate Research Assistant*
 
-`May-Aug 2013`{: class='work-experience'}
+- Co-developed the DeepStack system.
+- Co-developed Regression Counterfactual Regret Minimization (RCFR) algorithm in collaboration and worked to improve it.
+- Implemented RCFR and many supporting tools for experiments.
+- Ran RCFR experiments.
+- Wrote 1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition (ACPC) for the University of Alberta Computer Poker Research Group (CPRG).
+- Wrote 2nd-place 3-player Kuhn poker agent in the 2015 ACPC for the CPRG.
+
+``May-Aug 2013``{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
 
-`Aug 2011-Apr 2013`{: class='work-experience'}
+- Added features, tests, and bug fixes to the open source, Ruby on Rails-based Annual Computer Poker Competition (ACPC) Poker GUI Client project (and supporting libraries) that I created for the ACPC and the Computer Poker Research Group (CPRG) at the University of Alberta.
+- Helped manage CPRG private server running my ACPC Poker GUI Client.
+application.
+- Attended the 2013 Association for the Advancement of Artificial.
+Intelligence (AAAI) conference in Bellevue, WA, USA.
+- Demonstrated the ACPC Poker GUI Client at the AAAI-2013.
+- Wrote 3-player Kuhn poker player in C for the ACPC that plays an.
+equilibrium component strategy.
+- Supervised by Professor Duane Szafron.
+
+``Aug 2011-Apr 2013``{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Part-Time Undergraduate Researcher*
 
-`May 2011-Aug 2012`{: class='work-experience'}
+- Designed and created the open source, Ruby on Rails-based Annual Computer Poker Competition (ACPC) Poker GUI Client project (and supporting libraries) that I created for the ACPC and the Computer Poker Research Group (CPRG) at the University of Alberta.
+- Setup and co-managed CPRG private server running my ACPC Poker GUI.
+Client application.
+- Supervised by Professor Duane Szafron.
+
+``May 2011-Aug 2012``{: class='work-experience'}
 **CDL Systems Ltd.**, Calgary, AB, Canada
 
 
 *Software Developer Intern*
 
-`May-Aug 2010`{: class='work-experience'}
+- Wrote C++ and Perl software to enhance CDL's unmanned aerial vehicle.
+control station products including VCS Map, Video,.
+(both used by VCS-4586) and Shadow VCS.
+- Tested and validated application correctness, including participating.
+in multiple Fully Qualified Tests for both VCS Map used by VCS-4586.
+and Shadow VCS.
+- Worked with a mid-size team of developers and system engineers, in.
+addition to other development teams (both local and remote) within CDL.
+- Contributed to bi-weekly agile iteration planning and retrospective.
+meetings, including task estimation, feature demonstration, and team.
+development process discussion.
+- Participated in new feature and component refactoring design meetings by.
+taking and publishing notes, and providing my professional opinion.
+- Wrote blog posts about the challenges and interesting tasks I encountered.
+for all CDL developers to read and learn from.
+
+``May-Aug 2010``{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
 
-`May-Aug 2009`{: class='work-experience'}
+- Wrote C programs and Perl scripts to support research by the Computer Poker.
+Research Group (CPRG) at the University of Alberta.
+- Tested the effectiveness of different bet sizes in Texas Hold'em.
+poker to determine the most useful bet sizes.
+- Contributed to CPRG meetings with experimental results.
+- Developed team software production skills utilizing the CPRG's code.
+base and version control system.
+- Tested the new server for the Annual Computer Poker Competition before.
+the competition began.
+- Supervised by Professor Duane Szafron.
+
+``May-Aug 2009``{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
+
+- Improved a Perl statistics calculator to do scientific calculations.
+such as numerical integration and finding the molar mass of chemicals.
+- Translated Python programs, in an introductory computing science text.
+book, to Perl.
+- Developed computing science assignments for the Science 100 course.
+- Led two high school internship students in the development of.
+introductory computing science assignments.
+- Contributed to the Trellis group weekly paper discussions.
+- Supervised by Professor Paul Lu.
 
 ## Academic Service
 
@@ -241,20 +300,130 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 
 *Part-Time Course Development Assistant*
 
+- Developed code infrastructure and tools for students.
+- Drafted assignments.
+
 `W2016`
 **CMPUT 275 (Introduction to Tangible Computing II)**, University of Alberta
 
 *Part-Time Teaching Assistant*
+
+- Helped students during a once a week office hour.
+- Marked assignments.
+- Answered student questions.
+- Evaluated project demonstrations and provided feedback to students.
 
 `F2015`
 **CMPUT 101 (Introduction to Computing)**, University of Alberta
 
 *Full-Time Teaching Assistant*
 
+- Taught a lab section on my own.
+- Presented course material coherently to students.
+- Led students through relevant exercises.
+- Provided advice and guidance to students in lab and during one-on-one meetings, on course material and computing science in general.
+- Evaluated course work to grade and provide feedback to students.
+
 `W2014`
 **CMPUT 175 (Introduction to the Foundations of Computing II)**, University of Alberta
 
 *Full-Time Teaching Assistant*
+
+- Taught a lab section on my own.
+- Presented course material coherently to students.
+- Led students through relevant exercises.
+- Provided advice and guidance to students in lab and during one-on-one meetings, on course material and computing science in general.
+- Evaluated course work to grade and provide feedback to students.
+
+## Community Service
+
+``Jan 2010-Aug 2012``{: class='work-experience'}
+**Golden Key International Honour Society, University of Alberta Chapter**, 
+
+*VP Communications and Webmaster*
+
+- Led a 9th grade class on a tour of campus and helped organize lab demonstrations.
+- Created new chapter website and answered emails.
+- Attended 2011 Canadian Summit in Niagra Falls, Ontario, Canada.
+- Attended workshops and completed a service project at a St. Mary's Food Bank during the 2010 International Summit in Scottsdale, Arizona, United States.
+- Volunteered at 2010 Canadian Summit hosted by our chapter.
+
+``Sep 2010-Apr 2011``{: class='work-experience'}
+**University of Alberta Campust Food Bank**, Edmonton
+
+*Team Leader*
+
+- Interviewed prospective volunteers and completed reference checks.
+- Provided input during volunteer selection that led to the hiring of new volunteers.
+- Trained new volunteers.
+- Led volunteers during shifts and special events.
+
+``May 2009-Aug 2010``{: class='work-experience'}
+**University of Alberta Campust Food Bank**, Edmonton
+
+*Volunteer*
+
+- Attended to the needs of clients.
+- Provided them with perishables and toiletries.
+- Filled food hampers.
+- Completed office tasks.
+- Answered the phone and took messages.
+- Updated client records.
+- Sorted and stored food donations.
+
+``Sep 2009-Apr 2010``{: class='work-experience'}
+**University of Alberta Faculty of Science**, 
+
+*Science Mentor*
+
+- Answered students questions about science programs and Science 100.
+
+``October 3, 2009``{: class='work-experience'}
+**University of Alberta Computing Science Department**, 
+
+*Volunteer*
+
+- Volunteer for the University of Alberta Open House representing the Computing Science Department.
+- Promoted the department.
+- Answered questions about computing science and career opportunities with a computing science degree.
+
+``September 18, 2009``{: class='work-experience'}
+**Science 100**, 
+
+*Volunteer*
+
+- Helped promote Jay Ingram's presentation, *Darwin's Sexy Science: The Evolution of Human Sexuality*.
+
+``Sep 2007-Apr 2008``{: class='work-experience'}
+**Barrhead Skating Club**, 
+
+*Assistant CanSkate Coach*
+
+- Ran skating drills and games. independently of the head coach.
+- Kept students interested and motivated.
+- Coached individual students when they had difficulties.
+- Encouraged students to work harder and improve their skating.
+
+``Sep 2007-Apr 2008``{: class='work-experience'}
+**Barrhead Skating Club**, 
+
+*Assistant Power Skating Coach*
+
+- Instructed and critiqued hockey skating techniques.
+- Ran skating drills and games. independently of the head coach.
+- Kept students interested and motivated.
+- Coached individual students when they had difficulties.
+- Encouraged students to work harder and improve their skating.
+
+``Feb 2003-Jun 2004``{: class='work-experience'}
+**Silent River Kung Fu (Stony Plain, AB)**, 
+
+*Assistant Kung Fu Instructor*
+
+- Led warm ups and group games.
+- Led groups through technique review.
+- Demonstrated and explained techniques.
+- Critiqued students on their form.
 
 ## Projects
 
@@ -267,29 +436,25 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 **Play DeepStack Web Application**
 
 - Web application that allows people to play [DeepStack](https://deepstack.ai/), the first program to defeat professional poker players at no-limit Texas hold'em, as shown in [Twitch.tv streams](https://www.twitch.tv/deepstackai). See the March 2017 [*Science* article](http://poker.cs.ualberta.ca/17science.html) for more details on DeepStack and DeepStack's [YouTube channel](https://www.youtube.com/channel/UC4vSx3bbs8dbaHl2tkzU8Nw) for match videos.
-- 
 - I both developed this application and maintained DeepStack's private server during the first season of DeepStack's Twitch matches.
 
 `2015`
 **Play Cepheus Web Application (<http://poker-play.srv.ualberta.ca/>)**
 
 - Web application that allows people to play [Cepheus](http://poker.srv.ualberta.ca/), the solution to heads-up limit Texas hold'em computed by the [Computer Poker Research Group](http://poker.cs.ualberta.ca/) at the [University of Alberta](http://ualberta.ca/). See the January 2015 [*Science* article](http://poker.cs.ualberta.ca/15science.html) for more details. It is a modification of the [ACPC Poker GUI Client](https://github.com/dmorrill10/acpc_poker_gui_client).
-- 
 - I both developed this application and maintain Cepheus's [public server](http://poker-play.srv.ualberta.ca/).
 
 `2011`
 **Various Open-Source Projects (<https://github.com/dmorrill10>)**
 
-- - 58 public repositories, 13 followers, and contributions to nine open-source projects with other owners.
-- - See [GitHub Résumé](https://resume.github.io/?dmorrill10) for more detailed information.
+- 58 public repositories, 13 followers, and contributions to nine open-source projects with other owners.
+- See [GitHub Résumé](https://resume.github.io/?dmorrill10) for more detailed information.
 
 `2011`
 **ACPC Poker GUI Client (<https://github.com/dmorrill10/acpc_poker_gui_client>)**
 
 - The Annual Computer Poker Competition Poker Gui Client provides a graphical user interface with which people may play poker games against automated agents. It supports two-player and three-player limit and no-limit Texas Hold'em, as well as three-player Kuhn. It can support any game supported by the ACPC Dealer as well.
-- 
 - This application is built with Ruby and Rails and began as an independent study project supervised by [Dr. Duane Szafron](https://webdocs.cs.ualberta.ca/~duane/) at the [University of Alberta](http://ualberta.ca/).
-- 
 - A modified version of this application is used in the [*Play Cepheus* application](http://poker-play.srv.ualberta.ca/).
 
 ## Personal Information
@@ -297,3 +462,4 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
+#### Last updated: February 15, 2018
