@@ -43,7 +43,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 ### Journal Articles
 
 `2017`
-Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker. In *Science*, March 2, 2017.
+Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker. In *Science*, Mar 2, 2017.
 
 ### Refereed Conferences
 
@@ -131,72 +131,75 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 
 ### Seminars
 
-`2014`
+`Aug 21, 2014`
 **Dustin Morrill**. Regression Counterfactual Regret Minimization. At *University of Alberta Reinforcement Learning and Artificial Intelligence (RLAI) Tea-time Talk*.
 
 ### Demonstrations
 
-`2018`
+`Feb 16, 2018`
+**Dustin Morrill**. Computer poker and DeepStack demonstration. At *University of Alberta Department of Computing Science: Reverse Expo*.
+
+`Jan 25, 2018`
 **Dustin Morrill**. Computer poker and DeepStack demonstration. At *Telus World of Science: Dark Matters: Game On!*.
 
-`2017`
+`Feb 5, 2017`
 Martin Schmid, **Dustin Morrill**, and Michael Bowling. Play DeepStack on a Commodity Gaming Laptop. At *Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)*.
 
-`2016`
+`Jun 21, 2016`
 Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. Computer poker and Cepheus demonstration (2). At *CANHEIT HPCS 2016*.
 
-`2016`
+`Jun 20, 2016`
 Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. Computer poker and Cepheus demonstration (1). At *CANHEIT HPCS 2016*.
 
-`2015`
+`Dec 10, 2015`
 **Dustin Morrill**, Michael Johanson, and Viliam Lisy. Computer poker and Cepheus demonstration. At *Telus World of Science: Dark Matters: Game On!*.
 
-`2015`
+`Jan 29, 2015`
 Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. Computer poker and Cepheus demonstration (2). At *AAAI-15 Games Showcase*.
 
-`2015`
+`Jan 28, 2015`
 Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. Computer poker and Cepheus demonstration (1). At *AAAI-15 Games Showcase*.
 
-`2015`
+`Jan 26, 2015`
 Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. Computer poker and Cepheus demonstration. At *AAAI-15 Open House*.
 
-`2014`
+`Sep 20, 2014`
 Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstration. At *University of Alberta computing science department's 50th anniversary open house*.
 
-`2013`
+`Jul 14, 2013`
 **Dustin Morrill**. The Annual Computer Poker Competition Poker Graphical User Interface. At *Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)*.
 
 ### Videos
 
-`2017`
+`May 4, 2017`
 Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Bryan Paris on Twitch.tv](https://www.youtube.com/watch?v=SI-i-fQBv1Y). On *Twitch.tv*.
 
-`2017`
+`Apr 19, 2017`
 Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch.tv](https://youtu.be/ptWchEBbaOk). On *Twitch.tv*.
 
-`2017`
+`Apr 13, 2017`
 Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Dutch Boyd on Twitch.tv](https://youtu.be/yAYTh1dz_AU). On *Twitch.tv*.
 
-`2017`
+`Apr 5, 2017`
 Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against the 2+2 Pokercast on Twitch.tv](https://youtu.be/RiA3QJ3GhBk). On *Twitch.tv*.
 
-`2017`
+`Mar 29, 2017`
 Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch.tv](https://youtu.be/HAshTeOad2s). On *Twitch.tv*.
 
 ### Podcasts
 
-`2017`
+`Aug 31, 2017`
 Adam Schwartz, Terrence Chan, and **Dustin Morrill**. [TwoPlusTwo Pokercast---Episode 471](https://pokercast.twoplustwo.com/pokercast.php?pokercast=471). On *pokercast.twoplustwo.com*.
 
-`2017`
+`Aug 22, 2017`
 Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. [Thinking Poker Podcast---Episode 225: Taking the Variance out of Poker](http://www.thinkingpoker.net/2017/08/episode-225-taking-the-variance-out-of-poker/). On *thinkingpoker.net*.
 
-`2017`
+`Apr 10, 2017`
 Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
 
 ## Work Experience
 
-``May 2014-present``{: class='work-experience'}
+`May 2014-present`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Graduate Research Assistant*
@@ -208,7 +211,7 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 - Wrote 1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition (ACPC) for the University of Alberta Computer Poker Research Group (CPRG).
 - Wrote 2nd-place 3-player Kuhn poker agent in the 2015 ACPC for the CPRG.
 
-``May-Aug 2013``{: class='work-experience'}
+`May-Aug 2013`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
@@ -223,7 +226,7 @@ Intelligence (AAAI) conference in Bellevue, WA, USA.
 equilibrium component strategy.
 - Supervised by Professor Duane Szafron.
 
-``Aug 2011-Apr 2013``{: class='work-experience'}
+`Aug 2011-Apr 2013`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Part-Time Undergraduate Researcher*
@@ -233,7 +236,7 @@ equilibrium component strategy.
 Client application.
 - Supervised by Professor Duane Szafron.
 
-``May 2011-Aug 2012``{: class='work-experience'}
+`May 2011-Aug 2012`{: class='work-experience'}
 **CDL Systems Ltd.**, Calgary, AB, Canada
 
 
@@ -255,7 +258,7 @@ taking and publishing notes, and providing my professional opinion.
 - Wrote blog posts about the challenges and interesting tasks I encountered.
 for all CDL developers to read and learn from.
 
-``May-Aug 2010``{: class='work-experience'}
+`May-Aug 2010`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
@@ -271,7 +274,7 @@ base and version control system.
 the competition began.
 - Supervised by Professor Duane Szafron.
 
-``May-Aug 2009``{: class='work-experience'}
+`May-Aug 2009`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
@@ -337,7 +340,7 @@ introductory computing science assignments.
 
 ## Community Service
 
-``Jan 2010-Aug 2012``{: class='work-experience'}
+`Jan 2010-Aug 2012`{: class='community-service'}
 **Golden Key International Honour Society, University of Alberta Chapter**, 
 
 *VP Communications and Webmaster*
@@ -348,7 +351,14 @@ introductory computing science assignments.
 - Attended workshops and completed a service project at a St. Mary's Food Bank during the 2010 International Summit in Scottsdale, Arizona, United States.
 - Volunteered at 2010 Canadian Summit hosted by our chapter.
 
-``Sep 2010-Apr 2011``{: class='work-experience'}
+`Jan 18, 2012`{: class='community-service'}
+**The Mustard Seed**, Calgary
+
+*Volunteer*
+
+- Helped prepare food.
+
+`Sep 2010-Apr 2011`{: class='community-service'}
 **University of Alberta Campust Food Bank**, Edmonton
 
 *Team Leader*
@@ -358,7 +368,7 @@ introductory computing science assignments.
 - Trained new volunteers.
 - Led volunteers during shifts and special events.
 
-``May 2009-Aug 2010``{: class='work-experience'}
+`May 2009-Aug 2010`{: class='community-service'}
 **University of Alberta Campust Food Bank**, Edmonton
 
 *Volunteer*
@@ -371,14 +381,14 @@ introductory computing science assignments.
 - Updated client records.
 - Sorted and stored food donations.
 
-``Sep 2009-Apr 2010``{: class='work-experience'}
+`Sep 2009-Apr 2010`{: class='community-service'}
 **University of Alberta Faculty of Science**, 
 
 *Science Mentor*
 
 - Answered students questions about science programs and Science 100.
 
-``October 3, 2009``{: class='work-experience'}
+`Oct 3, 2009`{: class='community-service'}
 **University of Alberta Computing Science Department**, 
 
 *Volunteer*
@@ -387,14 +397,14 @@ introductory computing science assignments.
 - Promoted the department.
 - Answered questions about computing science and career opportunities with a computing science degree.
 
-``September 18, 2009``{: class='work-experience'}
+`Sep 18, 2009`{: class='community-service'}
 **Science 100**, 
 
 *Volunteer*
 
 - Helped promote Jay Ingram's presentation, *Darwin's Sexy Science: The Evolution of Human Sexuality*.
 
-``Sep 2007-Apr 2008``{: class='work-experience'}
+`Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, 
 
 *Assistant CanSkate Coach*
@@ -404,7 +414,7 @@ introductory computing science assignments.
 - Coached individual students when they had difficulties.
 - Encouraged students to work harder and improve their skating.
 
-``Sep 2007-Apr 2008``{: class='work-experience'}
+`Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, 
 
 *Assistant Power Skating Coach*
@@ -415,7 +425,7 @@ introductory computing science assignments.
 - Coached individual students when they had difficulties.
 - Encouraged students to work harder and improve their skating.
 
-``Feb 2003-Jun 2004``{: class='work-experience'}
+`Feb 2003-Jun 2004`{: class='community-service'}
 **Silent River Kung Fu (Stony Plain, AB)**, 
 
 *Assistant Kung Fu Instructor*
@@ -462,4 +472,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: February 15, 2018
+#### Last updated: Feb 16, 2018
