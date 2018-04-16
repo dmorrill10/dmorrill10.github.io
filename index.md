@@ -136,6 +136,9 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 
 ### Demonstrations
 
+`Mar 8, 2018`
+**Dustin Morrill**. DeepStack exhibition match. At *University of Alberta Computing Science Graduate Student's Association Klatch: Casino Royale*.
+
 `Feb 16, 2018`
 **Dustin Morrill**. Computer poker and DeepStack demonstration. At *University of Alberta Department of Computing Science: Reverse Expo*.
 
@@ -472,4 +475,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Feb 16, 2018
+#### Last updated: Apr 16, 2018
