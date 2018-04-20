@@ -343,6 +343,14 @@ introductory computing science assignments.
 
 ## Community Service
 
+`Mar 17, 2018`{: class='community-service'}
+**United Nations Habitat Urban Thinkers Campus: The Edmonton We Need: Accelerating the Transition to Sustainability**, Edmonton Clinic Health Academy
+
+*Participant*
+
+- Attended day-long workshop discussing projects to improve Edmonton's sustainability.
+- Discussed how to implement bike sharing and autonomous vehicle programs in Edmonton.
+
 `Jan 2010-Aug 2012`{: class='community-service'}
 **Golden Key International Honour Society, University of Alberta Chapter**, 
 
@@ -410,8 +418,9 @@ introductory computing science assignments.
 `Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, 
 
-*Assistant CanSkate Coach*
+*Assistant Power Skating Coach*
 
+- Instructed and critiqued hockey skating techniques.
 - Ran skating drills and games. independently of the head coach.
 - Kept students interested and motivated.
 - Coached individual students when they had difficulties.
@@ -420,9 +429,8 @@ introductory computing science assignments.
 `Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, 
 
-*Assistant Power Skating Coach*
+*Assistant CanSkate Coach*
 
-- Instructed and critiqued hockey skating techniques.
 - Ran skating drills and games. independently of the head coach.
 - Kept students interested and motivated.
 - Coached individual students when they had difficulties.
@@ -475,4 +483,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Apr 16, 2018
+#### Last updated: Apr 19, 2018
