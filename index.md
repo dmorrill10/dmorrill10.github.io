@@ -131,6 +131,9 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 
 ### Seminars
 
+`Apr 26, 2018`
+**Dustin Morrill**. AI Safety Through Robust Planning. At *University of British Columbia (hosted by Professor David Poole)*.
+
 `Aug 21, 2014`
 **Dustin Morrill**. Regression Counterfactual Regret Minimization. At *University of Alberta Reinforcement Learning and Artificial Intelligence (RLAI) Tea-time Talk*.
 
@@ -483,4 +486,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Apr 19, 2018
+#### Last updated: May 19, 2018
