@@ -217,6 +217,14 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 - Wrote 1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition (ACPC) for the University of Alberta Computer Poker Research Group (CPRG).
 - Wrote 2nd-place 3-player Kuhn poker agent in the 2015 ACPC for the CPRG.
 
+`Jan 2018-present`{: class='work-experience'}
+*Programming Contractor*
+
+- Modified the DeepStack interface for [*International Federation of Match Poker* (*IFMP*)](http://matchpokerfed.org/).
+- Prepared cloud environment to run DeepStack.
+- Provided technical support for the DeepStack event at IFMP's *Asian Nations Pair Challenge* (*ANPC*) (April 2018).
+- Provided an AIVAT analysis including player and team ranking for IFMP's ANPC 2018.
+
 `May-Aug 2013`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
@@ -347,7 +355,7 @@ introductory computing science assignments.
 ## Community Service
 
 `Mar 17, 2018`{: class='community-service'}
-**United Nations Habitat Urban Thinkers Campus: The Edmonton We Need: Accelerating the Transition to Sustainability**, Edmonton Clinic Health Academy
+**United Nations Habitat Urban Thinkers Campus: The Edmonton We Need: Accelerating the Transition to Sustainability**, Edmonton Clinic Health Academy, Edmonton, AB
 
 *Participant*
 
@@ -355,7 +363,7 @@ introductory computing science assignments.
 - Discussed how to implement bike sharing and autonomous vehicle programs in Edmonton.
 
 `Jan 2010-Aug 2012`{: class='community-service'}
-**Golden Key International Honour Society, University of Alberta Chapter**, 
+**Golden Key International Honour Society, University of Alberta Chapter**, Edmonton, AB
 
 *VP Communications and Webmaster*
 
@@ -366,14 +374,14 @@ introductory computing science assignments.
 - Volunteered at 2010 Canadian Summit hosted by our chapter.
 
 `Jan 18, 2012`{: class='community-service'}
-**The Mustard Seed**, Calgary
+**The Mustard Seed**, Calgary, AB
 
 *Volunteer*
 
 - Helped prepare food.
 
 `Sep 2010-Apr 2011`{: class='community-service'}
-**University of Alberta Campust Food Bank**, Edmonton
+**University of Alberta Campust Food Bank**, Edmonton, AB
 
 *Team Leader*
 
@@ -383,7 +391,7 @@ introductory computing science assignments.
 - Led volunteers during shifts and special events.
 
 `May 2009-Aug 2010`{: class='community-service'}
-**University of Alberta Campust Food Bank**, Edmonton
+**University of Alberta Campust Food Bank**, Edmonton, AB
 
 *Volunteer*
 
@@ -396,14 +404,14 @@ introductory computing science assignments.
 - Sorted and stored food donations.
 
 `Sep 2009-Apr 2010`{: class='community-service'}
-**University of Alberta Faculty of Science**, 
+**University of Alberta Faculty of Science**, Edmonton, AB
 
 *Science Mentor*
 
 - Answered students questions about science programs and Science 100.
 
 `Oct 3, 2009`{: class='community-service'}
-**University of Alberta Computing Science Department**, 
+**University of Alberta Computing Science Department**, Edmonton, AB
 
 *Volunteer*
 
@@ -412,14 +420,14 @@ introductory computing science assignments.
 - Answered questions about computing science and career opportunities with a computing science degree.
 
 `Sep 18, 2009`{: class='community-service'}
-**Science 100**, 
+**Science 100**, Edmonton, AB
 
 *Volunteer*
 
 - Helped promote Jay Ingram's presentation, *Darwin's Sexy Science: The Evolution of Human Sexuality*.
 
 `Sep 2007-Apr 2008`{: class='community-service'}
-**Barrhead Skating Club**, 
+**Barrhead Skating Club**, Barrhead, AB
 
 *Assistant Power Skating Coach*
 
@@ -430,7 +438,7 @@ introductory computing science assignments.
 - Encouraged students to work harder and improve their skating.
 
 `Sep 2007-Apr 2008`{: class='community-service'}
-**Barrhead Skating Club**, 
+**Barrhead Skating Club**, Barrhead, AB
 
 *Assistant CanSkate Coach*
 
@@ -440,7 +448,7 @@ introductory computing science assignments.
 - Encouraged students to work harder and improve their skating.
 
 `Feb 2003-Jun 2004`{: class='community-service'}
-**Silent River Kung Fu (Stony Plain, AB)**, 
+**Silent River Kung Fu**, Stony Plain, AB
 
 *Assistant Kung Fu Instructor*
 
@@ -486,4 +494,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: May 19, 2018
+#### Last updated: May 20, 2018
