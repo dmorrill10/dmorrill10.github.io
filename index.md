@@ -131,6 +131,9 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 
 ### Seminars
 
+`Aug 2, 2018`
+Dustin Morrill, Michael Bowling, Fatima Davelouis. AI Safety Through Robust Planning. At *University of Alberta Alberta Machine Intelligence Institute (AMII) Tea-time Talk*.
+
 `Apr 26, 2018`
 **Dustin Morrill**. AI Safety Through Robust Planning. At *University of British Columbia (hosted by Professor David Poole)*.
 
@@ -494,4 +497,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: May 20, 2018
+#### Last updated: Aug 4, 2018
