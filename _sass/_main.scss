@@ -1,0 +1,44 @@
+.main {
+  max-width   : 38rem;
+  padding     : 1.4rem 0.8rem;
+  margin-left : auto;
+  margin-right: auto;
+  overflow    : auto;
+  @media (min-width: 38rem) {
+    margin-top : 0;
+    margin-left: 20%;
+    padding    : 3%;
+    min-width  : 80%;
+    height     : 800px;
+  }
+
+  .mainhead {
+    .mainhead-title {
+      span {
+        color: white;
+      }
+    }
+
+    .mainhead-nav {
+      a {
+        color      : #000;
+        font-weight: 800;
+
+        &:hover {
+          color: #424242;
+        }
+      }
+
+      span {
+        font-weight: 800;
+        color      : $color-main;
+
+        &:focus,
+        &:hover {
+          color          : $color-main;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}

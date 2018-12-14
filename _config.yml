@@ -1,1 +1,17 @@
-markdown:   kramdown
+markdown:       kramdown
+name:           Dustin Morrill
+description:    Machine intelligence researcher
+url:            http://dmorrill10.github.io/
+author:         Dustin Morrill
+email:          morrill-at-ualberta.ca
+gravatar_hash:  4e840af959b7c97638ad1a99f066ef0b
+twitter:        DustinRMorrill
+github:         dmorrill10
+linkedin:       dustinmorrill
+nav:
+  -
+    name:       CV
+    href:       cv
+  -
+    name:       Publications
+    href:       publications
