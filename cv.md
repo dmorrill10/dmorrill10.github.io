@@ -3,16 +3,16 @@ layout: cv
 title: Dustin Morrill's CV
 ---
 # Dustin Morrill
-Machine intelligence graduate student
+Machine intelligence researcher
 
 <div id="webaddress">
-  <a href="mailto:morrill@ualberta.ca">morrill@ualberta.ca</a>
-  |
-  <i class="fa fa-github"></i> <a href="http://github.com/dmorrill10">dmorrill10</a>
-  |
-  <i class="fa fa-linkedin"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
-  |
-  <i class="fa fa-twitter"></i> <a href="https://twitter.com/DustinRMorrill">@DustinRMorrill</a>
+  <i class="fas fa-envelope"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
+ |
+  <i class="fab fa-github"></i> <a href="http://github.com/dmorrill10">dmorrill10</a>
+ |
+  <i class="fab fa-linkedin"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
+ |
+  <i class="fab fa-twitter"></i> <a href="https://twitter.com/DustinRMorrill">DustinRMorrill</a>
 </div>
 
 ## Currently
@@ -67,10 +67,10 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 **CIFAR Deep Learning Summer School 2016 Travel Grant ($500)**
 
 `2016`
-**NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
+**AITF Top-Up Award (Doctoral) ($36000)**
 
 `2016`
-**AITF Top-Up Award (Doctoral) ($36000)**
+**NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
 
 `2016`
 **President's Doctoral Prize of Distinction ($21500)**
@@ -98,16 +98,16 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 **NSERC Undergraduate Student Research Award ($6000)**
 
 `2011`
-**Amdahl Academic Achievement Scholarship in Computing Science ($1750)**
+**Jason Lang Scholarship ($1000)**
 
 `2011`
+**Amdahl Academic Achievement Scholarship in Computing Science ($1750)**
+
+`2010`
 **Jason Lang Scholarship ($1000)**
 
 `2010`
 **Barry J Mailloux Prize in Computing Science ($1350)**
-
-`2010`
-**Jason Lang Scholarship ($1000)**
 
 `2010`
 **NSERC Undergraduate Student Research Award ($6000)**
@@ -116,16 +116,16 @@ Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving
 **Jason Lang Scholarship ($1000)**
 
 `2008`
-**Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)**
-
-`2008`
-**Robert Tegler Entrance Scholarship ($2500)**
+**Alexander Rutherford High School Achievement Scholarship ($2500)**
 
 `2008`
 **Barrhead Minor Hockey Association Scholarship ($500)**
 
 `2008`
-**Alexander Rutherford High School Achievement Scholarship ($2500)**
+**Robert Tegler Entrance Scholarship ($2500)**
+
+`2008`
+**Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)**
 
 ## Presentations and Outreach
 
@@ -432,9 +432,8 @@ introductory computing science assignments.
 `Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, Barrhead, AB
 
-*Assistant Power Skating Coach*
+*Assistant CanSkate Coach*
 
-- Instructed and critiqued hockey skating techniques.
 - Ran skating drills and games. independently of the head coach.
 - Kept students interested and motivated.
 - Coached individual students when they had difficulties.
@@ -443,8 +442,9 @@ introductory computing science assignments.
 `Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, Barrhead, AB
 
-*Assistant CanSkate Coach*
+*Assistant Power Skating Coach*
 
+- Instructed and critiqued hockey skating techniques.
 - Ran skating drills and games. independently of the head coach.
 - Kept students interested and motivated.
 - Coached individual students when they had difficulties.
@@ -497,4 +497,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Aug 18, 2018
+#### Last updated: Dec 15, 2018
