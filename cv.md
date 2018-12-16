@@ -48,7 +48,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Refereed Conferences
 
 `2018`
-[Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. At the *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf.pdf)
+[Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. At the *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf)
 
 `2015`
 [Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
