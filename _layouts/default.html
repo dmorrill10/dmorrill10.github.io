@@ -5,39 +5,7 @@
 <body class="preload">
     <div class="top"></div>
     <div class="profile">
-        <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" />
-        <h3>{{ site.name }}</h3>
-        <p>{{ site.description }}</p>
-        <ul class="social">
-            {% if site.github %}
-            <a type="button" href="http://github.com/{{ site.github }}">
-                <i class="fab fa-github"></i>
-            </a>
-            {% endif %} {% if site.twitter %}
-            <a type="button" href="http://twitter.com/{{ site.twitter }}">
-                <i class="fab fa-twitter"></i>
-            </a>
-            {% endif %} {% if site.linkedin %}
-            <a type="button" href="http://linkedin.com/in/{{ site.linkedin }}">
-                <i class="fab fa-linkedin"></i>
-            </a>
-            {% endif %} {% if site.pinterest %}
-            <a type="button" href="http://pinterest.com/{{ site.pinterest }}">
-                <i class="fab fa-pinterest"></i>
-            </a>
-            {% endif %} {% if site.facebook %}
-            <a type="button" href="http://facebook.com/{{ site.facebook }}">
-                <i class="fab fa-facebook"></i>
-            </a>
-            {% endif %}
-        </ul>
-        <div class="footer">
-          <p>
-            Copyright &#169; Dustin Morrill 2018.
-
-            Theme derived from <a href='https://github.com/thinker3197/ink'>thinker3197/ink</a>.
-          </p>
-        </div>
+      {% include profile.html %}
     </div>
     <div id="main" class="main">
       <header class="mainhead">
