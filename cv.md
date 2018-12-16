@@ -3,15 +3,15 @@ layout: cv
 title: Dustin Morrill's CV
 ---
 # Dustin Morrill
-Machine intelligence researcher
+machine intelligence researcher
 
 <div id="webaddress">
   <i class="fas fa-envelope"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
- |
+  |
   <i class="fab fa-github"></i> <a href="http://github.com/dmorrill10">dmorrill10</a>
- |
+  |
   <i class="fab fa-linkedin"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
- |
+  |
   <i class="fab fa-twitter"></i> <a href="https://twitter.com/DustinRMorrill">DustinRMorrill</a>
 </div>
 
@@ -40,12 +40,12 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Publications
 
-### Journal Articles
+## Journal Articles
 
 `2017`
 Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker. In *Science*, Mar 2, 2017.
 
-### Refereed Conferences
+## Refereed Conferences
 
 `2018`
 Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. In *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].
@@ -53,7 +53,7 @@ Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bow
 `2015`
 Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. In *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*, pages 2138--2145. [Acceptance Rate: 26.67%].
 
-### Other Publications
+## Other Publications
 
 `2016`
 **Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. M.Sc. thesis, Computing Science Department, University of Alberta, Edmonton Alberta, Canada.
@@ -212,7 +212,6 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 **University of Alberta**, Edmonton
 
 *Graduate Research Assistant*
-
 - Co-developed the DeepStack system.
 - Co-developed Regression Counterfactual Regret Minimization (RCFR) algorithm in collaboration and worked to improve it.
 - Implemented RCFR and many supporting tools for experiments.
@@ -221,8 +220,8 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 - Wrote 2nd-place 3-player Kuhn poker agent in the 2015 ACPC for the CPRG.
 
 `Jan 2018-present`{: class='work-experience'}
-*Programming Contractor*
 
+*Programming Contractor*
 - Modified the DeepStack interface for [*International Federation of Match Poker* (*IFMP*)](http://matchpokerfed.org/).
 - Prepared cloud environment to run DeepStack.
 - Provided technical support for the DeepStack event at IFMP's *Asian Nations Pair Challenge* (*ANPC*) (April 2018).
@@ -232,7 +231,6 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
-
 - Added features, tests, and bug fixes to the open source, Ruby on Rails-based Annual Computer Poker Competition (ACPC) Poker GUI Client project (and supporting libraries) that I created for the ACPC and the Computer Poker Research Group (CPRG) at the University of Alberta.
 - Helped manage CPRG private server running my ACPC Poker GUI Client.
 application.
@@ -247,7 +245,6 @@ equilibrium component strategy.
 **University of Alberta**, Edmonton
 
 *Part-Time Undergraduate Researcher*
-
 - Designed and created the open source, Ruby on Rails-based Annual Computer Poker Competition (ACPC) Poker GUI Client project (and supporting libraries) that I created for the ACPC and the Computer Poker Research Group (CPRG) at the University of Alberta.
 - Setup and co-managed CPRG private server running my ACPC Poker GUI.
 Client application.
@@ -258,7 +255,6 @@ Client application.
 
 
 *Software Developer Intern*
-
 - Wrote C++ and Perl software to enhance CDL's unmanned aerial vehicle.
 control station products including VCS Map, Video,.
 (both used by VCS-4586) and Shadow VCS.
@@ -279,7 +275,6 @@ for all CDL developers to read and learn from.
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
-
 - Wrote C programs and Perl scripts to support research by the Computer Poker.
 Research Group (CPRG) at the University of Alberta.
 - Tested the effectiveness of different bet sizes in Texas Hold'em.
@@ -295,7 +290,6 @@ the competition began.
 **University of Alberta**, Edmonton
 
 *Undergraduate Researcher*
-
 - Improved a Perl statistics calculator to do scientific calculations.
 such as numerical integration and finding the molar mass of chemicals.
 - Translated Python programs, in an introductory computing science text.
@@ -305,6 +299,19 @@ book, to Perl.
 introductory computing science assignments.
 - Contributed to the Trellis group weekly paper discussions.
 - Supervised by Professor Paul Lu.
+
+`Feb-Aug 2008`{: class='work-experience'}
+**The Liquor Store (Onoway, AB) Ltd.**, Onoway, AB, Canada
+
+*Retail Assistant*
+
+
+`Jun-Aug 2007`{: class='work-experience'}
+**Pembina Hills School Division Maintenance**, Barrhead, AB, Canada
+
+*Construction Laborer*
+- Aided painters, electricians, plumbers, and carpenters to build and.
+repair school buildings.
 
 ## Academic Service
 
@@ -362,103 +369,55 @@ introductory computing science assignments.
 
 *Participant*
 
-- Attended day-long workshop discussing projects to improve Edmonton's sustainability.
-- Discussed how to implement bike sharing and autonomous vehicle programs in Edmonton.
-
 `Jan 2010-Aug 2012`{: class='community-service'}
 **Golden Key International Honour Society, University of Alberta Chapter**, Edmonton, AB
 
 *VP Communications and Webmaster*
-
-- Led a 9th grade class on a tour of campus and helped organize lab demonstrations.
-- Created new chapter website and answered emails.
-- Attended 2011 Canadian Summit in Niagra Falls, Ontario, Canada.
-- Attended workshops and completed a service project at a St. Mary's Food Bank during the 2010 International Summit in Scottsdale, Arizona, United States.
-- Volunteered at 2010 Canadian Summit hosted by our chapter.
 
 `Jan 18, 2012`{: class='community-service'}
 **The Mustard Seed**, Calgary, AB
 
 *Volunteer*
 
-- Helped prepare food.
-
 `Sep 2010-Apr 2011`{: class='community-service'}
 **University of Alberta Campust Food Bank**, Edmonton, AB
 
 *Team Leader*
-
-- Interviewed prospective volunteers and completed reference checks.
-- Provided input during volunteer selection that led to the hiring of new volunteers.
-- Trained new volunteers.
-- Led volunteers during shifts and special events.
 
 `May 2009-Aug 2010`{: class='community-service'}
 **University of Alberta Campust Food Bank**, Edmonton, AB
 
 *Volunteer*
 
-- Attended to the needs of clients.
-- Provided them with perishables and toiletries.
-- Filled food hampers.
-- Completed office tasks.
-- Answered the phone and took messages.
-- Updated client records.
-- Sorted and stored food donations.
-
 `Sep 2009-Apr 2010`{: class='community-service'}
 **University of Alberta Faculty of Science**, Edmonton, AB
 
 *Science Mentor*
-
-- Answered students questions about science programs and Science 100.
 
 `Oct 3, 2009`{: class='community-service'}
 **University of Alberta Computing Science Department**, Edmonton, AB
 
 *Volunteer*
 
-- Volunteer for the University of Alberta Open House representing the Computing Science Department.
-- Promoted the department.
-- Answered questions about computing science and career opportunities with a computing science degree.
-
 `Sep 18, 2009`{: class='community-service'}
 **Science 100**, Edmonton, AB
 
 *Volunteer*
-
-- Helped promote Jay Ingram's presentation, *Darwin's Sexy Science: The Evolution of Human Sexuality*.
 
 `Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, Barrhead, AB
 
 *Assistant CanSkate Coach*
 
-- Ran skating drills and games. independently of the head coach.
-- Kept students interested and motivated.
-- Coached individual students when they had difficulties.
-- Encouraged students to work harder and improve their skating.
-
 `Sep 2007-Apr 2008`{: class='community-service'}
 **Barrhead Skating Club**, Barrhead, AB
 
 *Assistant Power Skating Coach*
 
-- Instructed and critiqued hockey skating techniques.
-- Ran skating drills and games. independently of the head coach.
-- Kept students interested and motivated.
-- Coached individual students when they had difficulties.
-- Encouraged students to work harder and improve their skating.
-
 `Feb 2003-Jun 2004`{: class='community-service'}
 **Silent River Kung Fu**, Stony Plain, AB
 
 *Assistant Kung Fu Instructor*
-
-- Led warm ups and group games.
-- Led groups through technique review.
-- Demonstrated and explained techniques.
-- Critiqued students on their form.
 
 ## Projects
 
@@ -493,8 +452,9 @@ introductory computing science assignments.
 - A modified version of this application is used in the [*Play Cepheus* application](http://poker-play.srv.ualberta.ca/).
 
 ## Personal Information
+
 - **Citizenship**: Canada
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Dec 15, 2018
+#### Last updated: Dec 16, 2018

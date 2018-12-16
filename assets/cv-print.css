@@ -94,6 +94,11 @@ p code.work-experience {
 	left: -15%;
 }
 
+p code.community-service {
+	position: absolute;
+	left: -15%;
+}
+
 ul {
 	position: relative;
 	left: 28%;
@@ -205,7 +210,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
-
