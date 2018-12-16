@@ -3,7 +3,7 @@ layout: cv
 title: Dustin Morrill's CV
 ---
 # Dustin Morrill
-machine intelligence researcher
+Machine intelligence researcher
 
 <div id="webaddress">
   <i class="fas fa-envelope"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
