@@ -43,20 +43,20 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Journal Articles
 
 `2017`
-Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker. In *Science*, Mar 2, 2017.
+[Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker. In *Science, Mar 2, 2017*.](assets/publications/17science.pdf)
 
 ## Refereed Conferences
 
 `2018`
-Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. In *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].
+[Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. At the *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf.pdf)
 
 `2015`
-Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. In *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*, pages 2138--2145. [Acceptance Rate: 26.67%].
+[Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
 
 ## Other Publications
 
 `2016`
-**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. M.Sc. thesis, Computing Science Department, University of Alberta, Edmonton Alberta, Canada.
+[**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
 
 ## Accolades
 
