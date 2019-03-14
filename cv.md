@@ -55,6 +55,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Other Publications
 
+`2019`
+[Edward Lockhart, Marc Lanctot, Julien Pérolat, Jean-Baptiste Lespiau, **Dustin Morrill**, Finbarr Timbers, and Karl Tuyls. Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent. *arXiv:1903.05614, Mar 13, 2019*.](assets/publications/ed.mar13_2019.pdf)
+
 `2016`
 [**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
 
@@ -78,15 +81,11 @@ Distinctions: First Class Honors, Industrial Internship Program
 `2015`
 **2nd-place 3-player Kuhn poker agent in the 2015 Annual Computer Poker Competition**
 
-- Sole author of the University of Alberta Computer Poker Research Group submission
-
 `2014`
 **Walter H Johns Graduate Fellowship ($5428.54)**
 
 `2014`
 **1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition for the Computer Poker Research Group**
-
-- Sole author of the University of Alberta Computer Poker Research Group submission
 
 `2014`
 **AITF Top-Up Award (Masters) ($12000)**
@@ -208,7 +207,13 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 
 ## Work Experience
 
-`May 2014-present`{: class='work-experience'}
+`May-Aug 2019`{: class='work-experience'}
+**DeepMind Alberta**, Edmonton
+
+*Intern*
+- To gain experience in industrial artificial intelligence research.
+
+`May 2014-May 2019`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Graduate Research Assistant*
@@ -219,13 +224,21 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 - Wrote 1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition (ACPC) for the University of Alberta Computer Poker Research Group (CPRG).
 - Wrote 2nd-place 3-player Kuhn poker agent in the 2015 ACPC for the CPRG.
 
-`Jan 2018-present`{: class='work-experience'}
+`Jan-Dec 2018`{: class='work-experience'}
 
 *Programming Contractor*
 - Modified the DeepStack interface for [*International Federation of Match Poker* (*IFMP*)](http://matchpokerfed.org/).
 - Prepared cloud environment to run DeepStack.
 - Provided technical support for the DeepStack event at IFMP's *Asian Nations Pair Challenge* (*ANPC*) (April 2018).
 - Provided an AIVAT analysis including player and team ranking for IFMP's ANPC 2018.
+
+`May-Dec 2018`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Undergraduate Research Mentor*
+- Worked with Fatima Davelouis Gallardo, a recent B.Sc. (mathematics) graduate.
+- Taught Fatima about artificial intelligence research.
+- Helped Fatima to improve a [simple driving gridworld](https://github.com/AmiiThinks/driving_gridworld) to conduct safety experiments.
 
 `May-Aug 2013`{: class='work-experience'}
 **University of Alberta**, Edmonton
@@ -317,8 +330,14 @@ repair school buildings.
 
 **Conference Reviewing**
 
+`W2019`
+*ICML*
+
+`W2019`
+*AAMAS*
+
 `W2016`
-*AAAMAS*
+*AAMAS*
 
 ## Teaching
 
@@ -457,4 +476,4 @@ repair school buildings.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Dec 16, 2018
+#### Last updated: Mar 14, 2019
