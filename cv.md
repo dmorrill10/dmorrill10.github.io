@@ -47,6 +47,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Refereed Conferences
 
+`2019`
+[Edward Lockhart, Marc Lanctot, Julien Pérolat, Jean-Baptiste Lespiau, **Dustin Morrill**, Finbarr Timbers, and Karl Tuyls. Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent. At the *Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI 2019), Macao, China*. [Acceptance Rate: 17.9%].](assets/publications/ed.aug22_2019.pdf)
+
 `2018`
 [Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. At the *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf)
 
@@ -56,7 +59,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Other Publications
 
 `2019`
-[Edward Lockhart, Marc Lanctot, Julien Pérolat, Jean-Baptiste Lespiau, **Dustin Morrill**, Finbarr Timbers, and Karl Tuyls. Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent. *arXiv:1903.05614, Mar 13, 2019*.](assets/publications/ed.mar13_2019.pdf)
+[Shayegan Omidshafiei[1], Daniel Hennes[1], **Dustin Morrill[1]**, Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, and Karl Tuyls. Neural Replicator Dynamics. *arXiv:1906.00190, Jun 1, 2019*.](assets/publications/neurd.aug22_2019.pdf)
 
 `2016`
 [**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
@@ -129,6 +132,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Presentations and Outreach
 
 ### Seminars
+
+`Aug 9, 2019`
+**Dustin Morrill**. Intern Conclusion Presentation. At *DeepMind Alberta*.
 
 `Aug 2, 2018`
 **Dustin Morrill**, Michael Bowling, and Fatima Davelouis. AI Safety Through Robust Planning. At *University of Alberta Alberta Machine Intelligence Institute (AMII) Tea-time Talk*.
@@ -208,10 +214,13 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 ## Work Experience
 
 `May-Aug 2019`{: class='work-experience'}
-**DeepMind Alberta**, Edmonton
+**DeepMind**, Edmonton
 
-*Intern*
-- To gain experience in industrial artificial intelligence research.
+*Research Scientist Intern (Alberta)*
+- Gained experience in industrial artificial intelligence research.
+- Co-authored research papers.
+- Learned about DeepMind and Google system tools.
+- Contributed to Google code projects.
 
 `May 2014-May 2019`{: class='work-experience'}
 **University of Alberta**, Edmonton
@@ -476,4 +485,4 @@ repair school buildings.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Mar 14, 2019
+#### Last updated: Aug 22, 2019

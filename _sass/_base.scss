@@ -235,3 +235,11 @@ tbody tr:nth-child(odd) th {
     }
   }
 }
+
+ul {
+  .supplementary {
+    margin-left: 2rem;
+    display: block;
+    list-style-type: disc;
+  }
+}
