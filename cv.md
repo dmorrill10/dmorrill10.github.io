@@ -134,7 +134,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 ### Seminars
 
 `Aug 9, 2019`
-**Dustin Morrill**. Intern Conclusion Presentation. At *DeepMind Alberta*.
+**Dustin Morrill**. Internship Conclusion Presentation. At *DeepMind Alberta*.
 
 `Aug 2, 2018`
 **Dustin Morrill**, Michael Bowling, and Fatima Davelouis. AI Safety Through Robust Planning. At *University of Alberta Alberta Machine Intelligence Institute (AMII) Tea-time Talk*.
@@ -340,13 +340,13 @@ repair school buildings.
 **Conference Reviewing**
 
 `W2019`
-*ICML*
+*ICML* (top 5% reviewer)
 
 `W2019`
-*AAMAS*
+*AAMAS* (subreviewer)
 
 `W2016`
-*AAMAS*
+*AAMAS* (subreviewer)
 
 ## Teaching
 
