@@ -40,6 +40,11 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Publications
 
+## Theses
+
+`2016`
+[**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
+
 ## Journal Articles
 
 `2017`
@@ -47,22 +52,25 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Refereed Conferences
 
+`2020`
+[Daniel Hennes[1], **Dustin Morrill[1]**, Shayegan Omidshafiei[1], Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, Paavo Parmas, Edgar Duéñez-Guzmán, and Karl Tuyls. Neural Replicator Dynamics. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems, Auckland, New Zealand*. [Acceptance Rate: 23.0%].](assets/publications/neurd.nov28_2019.pdf)
+
+`2020`
+[Ryan D'Orazio[1], **Dustin Morrill[1]**, James R. Wright, and Michael Bowling. Alternative Function Approximation Parameterizations for Solving Games: An Analysis of f-Regression Counterfactual Regret Minimization. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems, Auckland, New Zealand*. [Acceptance Rate: 23.0%].](assets/publications/frcfr.jan21_2020.pdf)
+
 `2019`
 [Edward Lockhart, Marc Lanctot, Julien Pérolat, Jean-Baptiste Lespiau, **Dustin Morrill**, Finbarr Timbers, and Karl Tuyls. Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent. At the *Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI 2019), Macao, China*. [Acceptance Rate: 17.9%].](assets/publications/ed.aug22_2019.pdf)
 
 `2018`
-[Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT: A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. At the *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf)
+[Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. AIVAT:       A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games. At the *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf)
 
 `2015`
 [Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
 
-## Other Publications
+## Workshop Articles
 
 `2019`
-[Shayegan Omidshafiei[1], Daniel Hennes[1], **Dustin Morrill[1]**, Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, and Karl Tuyls. Neural Replicator Dynamics. *arXiv:1906.00190, Jun 1, 2019*.](assets/publications/neurd.aug22_2019.pdf)
-
-`2016`
-[**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
+[Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. Bounds for Approximate Regret-Matching Algorithms. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at the Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019), Dec 14, 2019, Vancouver, Canada*.](assets/publications/approx_gen_rm.nov28_2019.pdf)
 
 ## Accolades
 
@@ -132,6 +140,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Presentations and Outreach
 
 ### Seminars
+
+`Oct 11, 2019`
+**Dustin Morrill**. Internship Work Follow-Up Presentation. At *DeepMind Alberta*.
 
 `Aug 9, 2019`
 **Dustin Morrill**. Internship Conclusion Presentation. At *DeepMind Alberta*.
@@ -212,6 +223,12 @@ Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. [Thinking P
 Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
 
 ## Work Experience
+
+`Aug 2019-present`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Graduate Research Assistant*
+- Thesis research.
 
 `May-Aug 2019`{: class='work-experience'}
 **DeepMind**, Edmonton
@@ -347,6 +364,11 @@ repair school buildings.
 
 `W2016`
 *AAMAS* (subreviewer)
+
+**Workshop Reviewing**
+
+`F2019`
+*AAAI-RLG*
 
 ## Teaching
 
@@ -485,4 +507,4 @@ repair school buildings.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Aug 22, 2019
+#### Last updated: Jan 21, 2020
