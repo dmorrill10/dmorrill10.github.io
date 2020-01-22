@@ -6,13 +6,15 @@ title: Dustin Morrill's CV
 Machine intelligence researcher
 
 <div id="webaddress">
-  <i class="fas fa-envelope"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
+  <i class="fas fa-envelope" aria-hidden="true"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
   |
-  <i class="fab fa-github"></i> <a href="http://github.com/dmorrill10">dmorrill10</a>
+  <i class="fab fa-github" aria-hidden="true"></i> <a href="http://github.com/dmorrill10">dmorrill10</a>
   |
-  <i class="fab fa-linkedin"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
+  <i class="fab fa-linkedin" aria-hidden="true"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
   |
-  <i class="fab fa-twitter"></i> <a href="https://twitter.com/DustinRMorrill">DustinRMorrill</a>
+  <i class="fab fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/DustinRMorrill">DustinRMorrill</a>
+  |
+  <i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=Nwgz1bsAAAAJ&hl=en&authuser=1&oi=ao">Google Scholar</a>
 </div>
 
 ## Currently
