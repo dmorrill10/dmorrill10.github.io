@@ -13,8 +13,6 @@ Machine intelligence researcher
   <i class="fab fa-linkedin" aria-hidden="true"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
   |
   <i class="fab fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/DustinRMorrill">DustinRMorrill</a>
-  |
-  <i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=Nwgz1bsAAAAJ&hl=en&authuser=1&oi=ao">Google Scholar</a>
 </div>
 
 ## Currently
