@@ -17,7 +17,7 @@ Machine intelligence researcher
 
 ## Currently
 
-Ph.D student at the [University of Alberta](https://www.ualberta.ca/) studying game theoretic robust learning and optimization. Research interests include safe artificial intelligence, game theory, and reinforcement learning.
+Ph.D candidate at the [University of Alberta](https://www.ualberta.ca/) studying game theoretic robust learning and optimization. Research interests include safe artificial intelligence, game theory, and reinforcement learning.
 
 ## Education
 
@@ -507,4 +507,4 @@ repair school buildings.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Jan 21, 2020
+#### Last updated: May 8, 2020
