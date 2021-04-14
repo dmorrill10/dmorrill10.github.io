@@ -17,7 +17,7 @@ Machine intelligence researcher
 
 ## Currently
 
-Ph.D candidate at the [University of Alberta](https://www.ualberta.ca/) studying game theoretic robust learning and optimization. Research interests include safe artificial intelligence, game theory, and reinforcement learning.
+Ph.D candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning. Seeking a research scientist position or post-doctoral fellowship in Edmonton, AB, or remote.
 
 ## Education
 
