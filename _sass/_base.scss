@@ -100,9 +100,10 @@ dd {
 }
 
 ul {
-  display     : inline;
-  list-style  : inside circle;
+  list-style  : outside;
   padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 
   li {
     margin-bottom: 0.25rem;
@@ -116,8 +117,10 @@ ul {
 }
 
 ol {
-  list-style  : inside decimal;
+  list-style  : outside decimal;
   padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 
   li {
     margin-bottom: 0.25rem;
