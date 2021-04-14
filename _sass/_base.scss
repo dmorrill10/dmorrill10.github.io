@@ -1,7 +1,7 @@
 $open-sans: 'Open Sans', sans-serif;
 $source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$color-main: #4090FF;
-$font-color-posts-main: #515151;
+$color-main: #512fa5;
+$font-color-posts-main: #2c201c;
 $color-dark: $font-color-posts-main;
 $font-size-main: 18px;
 $font-size-main-big: 20px;
@@ -31,9 +31,6 @@ body,
 html {
   margin : 0;
   padding: 0;
-  @media (min-width: 38em) {
-    overflow: hidden;
-  }
 }
 
 html {

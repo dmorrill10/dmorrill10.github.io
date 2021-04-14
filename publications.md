@@ -4,7 +4,7 @@ title: Dustin Morrill's Publications
 ---
 
 - [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games. *arXiv, Feb 13, 2021*.](https://arxiv.org/abs/2102.06973)
-- [**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. Hindsight and Sequential Rationality of Correlated Play. At the *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February 2-9, 2021, Virtual*. [Acceptance Rate: 18.7%].](https://arxiv.org/abs/2012.05874)
+- [**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. Hindsight and Sequential Rationality of Correlated Play. At the *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February 2-9, 2021, Virtual*. [Acceptance Rate: 21.4%].](https://arxiv.org/abs/2012.05874)
 - [Daniel Hennes[1], **Dustin Morrill[1]**, Shayegan Omidshafiei[1], Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, Paavo Parmas, Edgar Duéñez-Guzmán, and Karl Tuyls. Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems, Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1906.00190)
 - [Ryan D'Orazio[1], **Dustin Morrill[1]**, James R. Wright, and Michael Bowling. Alternative Function Approximation Parameterizations for Solving Games: An Analysis of f-Regression Counterfactual Regret Minimization. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems, Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1912.02967)
 - [Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. Bounds for Approximate Regret-Matching Algorithms. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at the Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019), Dec 14, 2019, Vancouver, Canada*.](https://arxiv.org/abs/1910.01706)
@@ -14,4 +14,4 @@ title: Dustin Morrill's Publications
 - [**Dustin Morrill**. Using Regret Estimation to Solve Games Compactly. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
 - [Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. Solving Games with Functional Regret Estimation. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
 
-#### Last updated: Apr 11, 2021
+#### Last updated: Apr 12, 2021
