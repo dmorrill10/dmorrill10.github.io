@@ -82,71 +82,6 @@ Distinctions: First Class Honors, Industrial Internship Program
 `2021`
 [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games. *arXiv, Feb 13, 2021*.](https://arxiv.org/abs/2102.06973)
 
-## Accolades
-
-`2016`
-**Science Graduate Scholarship ($2000)**
-
-`2016`
-**CIFAR Deep Learning Summer School 2016 Travel Grant ($500)**
-
-`2016`
-**AITF Top-Up Award (Doctoral) ($36000)**
-
-`2016`
-**NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
-
-`2016`
-**President's Doctoral Prize of Distinction ($21500)**
-
-`2015`
-**2nd-place 3-player Kuhn poker agent in the 2015 Annual Computer Poker Competition**
-
-`2014`
-**Walter H Johns Graduate Fellowship ($5428.54)**
-
-`2014`
-**1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition for the Computer Poker Research Group**
-
-`2014`
-**AITF Top-Up Award (Masters) ($12000)**
-
-`2014`
-**NSERC Canada Graduate Scholarships-Master's Program Award ($17500)**
-
-`2013`
-**NSERC Undergraduate Student Research Award ($6000)**
-
-`2011`
-**Jason Lang Scholarship ($1000)**
-
-`2011`
-**Amdahl Academic Achievement Scholarship in Computing Science ($1750)**
-
-`2010`
-**Jason Lang Scholarship ($1000)**
-
-`2010`
-**Barry J Mailloux Prize in Computing Science ($1350)**
-
-`2010`
-**NSERC Undergraduate Student Research Award ($6000)**
-
-`2009`
-**Jason Lang Scholarship ($1000)**
-
-`2008`
-**Alexander Rutherford High School Achievement Scholarship ($2500)**
-
-`2008`
-**Barrhead Minor Hockey Association Scholarship ($500)**
-
-`2008`
-**Robert Tegler Entrance Scholarship ($2500)**
-
-`2008`
-**Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)**
-
 ## Presentations and Outreach
 
 ### Seminars
@@ -232,6 +167,33 @@ Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. [Thinking P
 `Apr 10, 2017`
 Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
 
+## Academic Service
+
+**Conference Reviewing**
+
+`M2020`
+*NeurIPS* (top 10% reviewer)
+
+`W2020`
+*ICML* (special thanks)
+
+`W2019`
+*ICML* (top 5% reviewer)
+
+`W2019`
+*AAMAS* (subreviewer)
+
+`W2016`
+*AAMAS* (subreviewer)
+
+**Workshop Reviewing**
+
+`F2020`
+*AAAI-RLG*
+
+`F2019`
+*AAAI-RLG*
+
 ## Work Experience
 
 `Aug 2019-present`{: class='work-experience'}
@@ -244,10 +206,11 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 **DeepMind**, Edmonton
 
 *Research Scientist Intern (Alberta)*
+- Supervised by Marc Lanctot.
 - Gained experience in industrial artificial intelligence research.
-- Co-authored research papers.
-- Learned about DeepMind and Google system tools.
-- Contributed to Google code projects.
+- Co-authored four research papers (two conference papers, the introduction to OpenSpiel, and one internal technical report).
+- Learned about DeepMind and Google processes and tools.
+- Contributed to OpenSpiel.
 
 `May 2014-May 2019`{: class='work-experience'}
 **University of Alberta**, Edmonton
@@ -349,36 +312,9 @@ introductory computing science assignments.
 - Contributed to the Trellis group weekly paper discussions.
 - Supervised by Professor Paul Lu.
 
-`Feb-Aug 2008`{: class='work-experience'}
-**The Liquor Store (Onoway, AB) Ltd.**, Onoway, AB, Canada
-
-*Retail Assistant*
 
 
-`Jun-Aug 2007`{: class='work-experience'}
-**Pembina Hills School Division Maintenance**, Barrhead, AB, Canada
 
-*Construction Laborer*
-- Aided painters, electricians, plumbers, and carpenters to build and.
-repair school buildings.
-
-## Academic Service
-
-**Conference Reviewing**
-
-`W2019`
-*ICML* (top 5% reviewer)
-
-`W2019`
-*AAMAS* (subreviewer)
-
-`W2016`
-*AAMAS* (subreviewer)
-
-**Workshop Reviewing**
-
-`F2019`
-*AAAI-RLG*
 
 ## Teaching
 
@@ -421,6 +357,71 @@ repair school buildings.
 - Led students through relevant exercises.
 - Provided advice and guidance to students in lab and during one-on-one meetings, on course material and computing science in general.
 - Evaluated course work to grade and provide feedback to students.
+
+## Accolades
+
+`2016`
+**Science Graduate Scholarship ($2000)**
+
+`2016`
+**CIFAR Deep Learning Summer School 2016 Travel Grant ($500)**
+
+`2016`
+**AITF Top-Up Award (Doctoral) ($36000)**
+
+`2016`
+**NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
+
+`2016`
+**President's Doctoral Prize of Distinction ($21500)**
+
+`2015`
+**2nd-place 3-player Kuhn poker agent in the 2015 Annual Computer Poker Competition**
+
+`2014`
+**Walter H Johns Graduate Fellowship ($5428.54)**
+
+`2014`
+**1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition for the Computer Poker Research Group**
+
+`2014`
+**AITF Top-Up Award (Masters) ($12000)**
+
+`2014`
+**NSERC Canada Graduate Scholarships-Master's Program Award ($17500)**
+
+`2013`
+**NSERC Undergraduate Student Research Award ($6000)**
+
+`2011`
+**Jason Lang Scholarship ($1000)**
+
+`2011`
+**Amdahl Academic Achievement Scholarship in Computing Science ($1750)**
+
+`2010`
+**Jason Lang Scholarship ($1000)**
+
+`2010`
+**Barry J Mailloux Prize in Computing Science ($1350)**
+
+`2010`
+**NSERC Undergraduate Student Research Award ($6000)**
+
+`2009`
+**Jason Lang Scholarship ($1000)**
+
+`2008`
+**Alexander Rutherford High School Achievement Scholarship ($2500)**
+
+`2008`
+**Barrhead Minor Hockey Association Scholarship ($500)**
+
+`2008`
+**Robert Tegler Entrance Scholarship ($2500)**
+
+`2008`
+**Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)**
 
 ## Community Service
 
