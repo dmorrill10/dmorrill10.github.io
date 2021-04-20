@@ -194,6 +194,11 @@ Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [Thinking 
 `F2019`
 *AAAI-RLG*
 
+**Committees**
+
+`W2021`
+*CIFAR AICan Student Advisory Committee*
+
 ## Work Experience
 
 `Aug 2019-present`{: class='work-experience'}
