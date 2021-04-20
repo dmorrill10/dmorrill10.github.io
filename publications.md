@@ -2,7 +2,6 @@
 layout: default
 title: Dustin Morrill's Publications
 ---
-## Publications
 
 - [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games. *arXiv, Feb 13, 2021*.](https://arxiv.org/abs/2102.06973)
 - [**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. Hindsight and Sequential Rationality of Correlated Play. At the *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February 2-9, 2021, Virtual*. [Acceptance Rate: 21.4%].](https://arxiv.org/abs/2012.05874)

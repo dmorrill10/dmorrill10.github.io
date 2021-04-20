@@ -17,14 +17,16 @@ Machine intelligence researcher
 
 ## Currently
 
-Ph.D candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning. Seeking a research scientist position or post-doctoral fellowship in Edmonton, AB, or remote.
+Ph.D candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning.
+Graduating in Fall 2021.
+Seeking a research scientist position or post-doctoral fellowship in Edmonton, Alberta, Canada, or remote.
 
 ## Education
 
 `2016-present`
 **Ph.D., Computing Science**, University of Alberta
 
-Advisor: Professor Michael Bowling
+Co-advisors: Professor Michael Bowling and Professor Amy Greenwald
 
 `2014-2016`
 **M.Sc., Computing Science**, University of Alberta
@@ -515,4 +517,4 @@ repair school buildings.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Apr 14, 2021
+#### Last updated: Apr 20, 2021
