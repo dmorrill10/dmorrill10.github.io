@@ -86,6 +86,18 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ### Seminars
 
+`Apr 9, 2021`
+**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. Hindsight Rationality and Deviation Types in EFGs. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
+
+`Mar 26, 2021`
+**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. [Hindsight Rationality and Deviation Types in EFGs](https://www.amii.ca/latest-from-amii/ai-seminar-series-2021-dustin-morrill). On *Alberta Machine Intelligence Institute AI Seminar*.
+
+`Mar 12, 2021`
+**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. Hindsight Rationality and Deviation Types in EFGs. At *DeepMind Game Theory Group*.
+
+`Apr 30, 2020`
+**Dustin Morrill**. Thesis Proposal. At *University of Alberta*.
+
 `Oct 11, 2019`
 **Dustin Morrill**. Internship Work Follow-Up Presentation. At *DeepMind Alberta*.
 
@@ -93,13 +105,13 @@ Distinctions: First Class Honors, Industrial Internship Program
 **Dustin Morrill**. Internship Conclusion Presentation. At *DeepMind Alberta*.
 
 `Aug 2, 2018`
-**Dustin Morrill**, Michael Bowling, and Fatima Davelouis. AI Safety Through Robust Planning. At *University of Alberta Alberta Machine Intelligence Institute (AMII) Tea-time Talk*.
+**Dustin Morrill**, Michael Bowling, and Fatima Davelouis. AI Safety Through Robust Planning. At *Alberta Machine Intelligence Institute Tea-time Talk*.
 
 `Apr 26, 2018`
 **Dustin Morrill**. AI Safety Through Robust Planning. At *University of British Columbia (hosted by Professor David Poole)*.
 
 `Aug 21, 2014`
-**Dustin Morrill**. Regression Counterfactual Regret Minimization. At *University of Alberta Reinforcement Learning and Artificial Intelligence (RLAI) Tea-time Talk*.
+**Dustin Morrill**. Regression Counterfactual Regret Minimization. At *University of Alberta Reinforcement Learning and Artificial Intelligence Tea-time Talk*.
 
 ### Demonstrations
 
@@ -140,6 +152,9 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. Computer poker demonstrat
 **Dustin Morrill**. The Annual Computer Poker Competition Poker Graphical User Interface. At *Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)*.
 
 ### Videos
+
+`Feb 2, 2021`
+**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. [Hindsight and Sequential Rationality of Correlated Play](https://slideslive.com/38949086/hindsight-and-sequential-rationality-of-correlated-play). On *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)*.
 
 `May 4, 2017`
 Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [DeepStack Plays Poker Against Bryan Paris on Twitch.tv](https://www.youtube.com/watch?v=SI-i-fQBv1Y). On *Twitch.tv*.
