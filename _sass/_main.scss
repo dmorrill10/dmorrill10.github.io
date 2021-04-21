@@ -46,5 +46,9 @@
   .content {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
+
+    .publications-list em {
+      font-weight: bold;
+    }
   }
 }
