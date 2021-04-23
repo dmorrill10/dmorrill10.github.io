@@ -118,6 +118,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ### Demonstrations
 
+`Oct 22, 2020`
+Spencer Murray and **Dustin Morrill**. *Applied AI and Poker: DeepStack*. At *World Summit AI 2020*.
+
 `Mar 8, 2018`
 **Dustin Morrill**. *DeepStack exhibition match*. At *University of Alberta Computing Science Graduate Student's Association Klatch: Casino Royale*.
 
@@ -541,4 +544,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Apr 21, 2021
+#### Last updated: Apr 22, 2021
