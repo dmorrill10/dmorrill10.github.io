@@ -93,7 +93,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 **Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
 
 `Mar 26, 2021`
-**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. [*Hindsight Rationality and Deviation Types in EFGs*](https://www.amii.ca/latest-from-amii/ai-seminar-series-2021-dustin-morrill). On *Alberta Machine Intelligence Institute AI Seminar*.
+[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-2021-dustin-morrill)
 
 `Mar 12, 2021`
 **Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *DeepMind Game Theory Group*.
@@ -160,33 +160,33 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 ### Videos
 
 `Feb 2, 2021`
-**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. [*Hindsight and Sequential Rationality of Correlated Play*](https://slideslive.com/38949086/hindsight-and-sequential-rationality-of-correlated-play). On *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)*.
+[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)*.](https://slideslive.com/38949086/hindsight-and-sequential-rationality-of-correlated-play)
 
 `May 4, 2017`
-Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [*DeepStack Plays Poker Against Bryan Paris on Twitch.tv*](https://www.youtube.com/watch?v=SI-i-fQBv1Y). On *Twitch.tv*.
+[Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Bryan Paris on Twitch.tv*. At *Twitch.tv*.](https://www.youtube.com/watch?v=SI-i-fQBv1Y)
 
 `Apr 19, 2017`
-Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [*DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch.tv*](https://youtu.be/ptWchEBbaOk). On *Twitch.tv*.
+[Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/ptWchEBbaOk)
 
 `Apr 13, 2017`
-Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [*DeepStack Plays Poker Against Dutch Boyd on Twitch.tv*](https://youtu.be/yAYTh1dz_AU). On *Twitch.tv*.
+[Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Dutch Boyd on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/yAYTh1dz_AU)
 
 `Apr 5, 2017`
-Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. [*DeepStack Plays Poker Against the 2+2 Pokercast on Twitch.tv*](https://youtu.be/RiA3QJ3GhBk). On *Twitch.tv*.
+[Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against the 2+2 Pokercast on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/RiA3QJ3GhBk)
 
 `Mar 29, 2017`
-Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. [*DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch.tv*](https://youtu.be/HAshTeOad2s). On *Twitch.tv*.
+[Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. *DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/HAshTeOad2s)
 
 ### Podcasts
 
 `Aug 31, 2017`
-Adam Schwartz, Terrence Chan, and **Dustin Morrill**. [*TwoPlusTwo Pokercast---Episode 471*](https://pokercast.twoplustwo.com/pokercast.php?pokercast=471). On *pokercast.twoplustwo.com*.
+[Adam Schwartz, Terrence Chan, and **Dustin Morrill**. *TwoPlusTwo Pokercast---Episode 471*. At *pokercast.twoplustwo.com*.](https://pokercast.twoplustwo.com/pokercast.php?pokercast=471)
 
 `Aug 22, 2017`
-Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. [*Thinking Poker Podcast---Episode 225: Taking the Variance out of Poker*](http://www.thinkingpoker.net/2017/08/episode-225-taking-the-variance-out-of-poker/). On *thinkingpoker.net*.
+[Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. *Thinking Poker Podcast---Episode 225: Taking the Variance out of Poker*. At *thinkingpoker.net*.](http://www.thinkingpoker.net/2017/08/episode-225-taking-the-variance-out-of-poker/)
 
 `Apr 10, 2017`
-Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. [*Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill*](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill). On *thinkingpoker.net*.
+[Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. *Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill*. At *thinkingpoker.net*.](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill)
 
 ## Academic Service
 
