@@ -17,7 +17,7 @@ Machine intelligence researcher
 
 ## Currently
 
-Ph.D candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning.
+Ph.D. candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning.
 Graduating in Fall 2021.
 Seeking a research scientist position or post-doctoral fellowship in Edmonton, Alberta, Canada, or remote.
 
@@ -544,4 +544,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Apr 22, 2021
+#### Last updated: May 3, 2021
