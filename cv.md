@@ -55,13 +55,16 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Refereed Conferences
 
 `2021`
+[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021), Virtual*. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
+
+`2021`
 [**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At the *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February 2-9, 2021, Virtual*. [Acceptance Rate: 21.4%].](https://arxiv.org/abs/2012.05874)
 
 `2020`
-[Daniel Hennes[1], **Dustin Morrill[1]**, Shayegan Omidshafiei[1], Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, Paavo Parmas, Edgar Duéñez-Guzmán, and Karl Tuyls. *Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems, Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1906.00190)
+[Daniel Hennes[1], **Dustin Morrill[1]**, Shayegan Omidshafiei[1], Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, Paavo Parmas, Edgar Duéñez-Guzmán, and Karl Tuyls. *Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2020), Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1906.00190)
 
 `2020`
-[Ryan D'Orazio[1], **Dustin Morrill[1]**, James R. Wright, and Michael Bowling. *Alternative Function Approximation Parameterizations for Solving Games: An Analysis of f-Regression Counterfactual Regret Minimization*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems, Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1912.02967)
+[Ryan D'Orazio[1], **Dustin Morrill[1]**, James R. Wright, and Michael Bowling. *Alternative Function Approximation Parameterizations for Solving Games: An Analysis of f-Regression Counterfactual Regret Minimization*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2020), Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1912.02967)
 
 `2019`
 [Edward Lockhart, Marc Lanctot, Julien Pérolat, Jean-Baptiste Lespiau, **Dustin Morrill**, Finbarr Timbers, and Karl Tuyls. *Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent*. At the *Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI 2019), Macao, China*. [Acceptance Rate: 17.9%].](https://arxiv.org/abs/1903.05614)
@@ -78,9 +81,6 @@ Distinctions: First Class Honors, Industrial Internship Program
 [Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. *Bounds for Approximate Regret-Matching Algorithms*. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at the Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019), Dec 14, 2019, Vancouver, Canada*.](https://arxiv.org/abs/1910.01706)
 
 ## Technical Reports
-
-`2021`
-[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. *arXiv, Feb 13, 2021*.](https://arxiv.org/abs/2102.06973)
 
 `2019`
 [Marc Lanctot, Edward Lockhart, Jean-Baptiste Lespiau, Vinicius Zambaldi, Satyaki Upadhyay, Julien Pérolat, Sriram Srinivasan, Finbarr Timbers, Karl Tuyls, Shayegan Omidshafiei, Daniel Hennes, **Dustin Morrill**, Paul Muller, Timo Ewalds, Ryan Faulkner, János Kramár, Bart De Vylder, Brennan Saeta, James Bradbury, David Ding, Sebastian Borgeaud, Matthew Lai, Julian Schrittwieser, Thomas Anthony, Edward Hughes, Ivo Danihelka, and Jonah Ryan-Davis. *OpenSpiel: A Framework for Reinforcement Learning in Games*. *arXiv, Aug 26, 2019*.](http://arxiv.org/abs/1908.09453)
@@ -544,4 +544,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: May 3, 2021
+#### Last updated: May 9, 2021
