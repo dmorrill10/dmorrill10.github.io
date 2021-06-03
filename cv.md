@@ -82,6 +82,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Technical Reports
 
+`2020`
+[Audrūnas Gruslys, Marc Lanctot, Rémi Munos, Finbarr Timbers, Martin Schmid, Julien Perolat, **Dustin Morrill**, Vinicius Zambaldi, Jean-Baptiste Lespiau, John Schultz, Mohammad Gheshlaghi Azar, Michael Bowling, and Karl Tuyls. *The Advantage Regret-Matching Actor-Critic*. *arXiv, Aug 27, 2020*.](https://arxiv.org/abs/2008.12234)
+
 `2019`
 [Marc Lanctot, Edward Lockhart, Jean-Baptiste Lespiau, Vinicius Zambaldi, Satyaki Upadhyay, Julien Pérolat, Sriram Srinivasan, Finbarr Timbers, Karl Tuyls, Shayegan Omidshafiei, Daniel Hennes, **Dustin Morrill**, Paul Muller, Timo Ewalds, Ryan Faulkner, János Kramár, Bart De Vylder, Brennan Saeta, James Bradbury, David Ding, Sebastian Borgeaud, Matthew Lai, Julian Schrittwieser, Thomas Anthony, Edward Hughes, Ivo Danihelka, and Jonah Ryan-Davis. *OpenSpiel: A Framework for Reinforcement Learning in Games*. *arXiv, Aug 26, 2019*.](http://arxiv.org/abs/1908.09453)
 
@@ -544,4 +547,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: May 9, 2021
+#### Last updated: Jun 3, 2021
