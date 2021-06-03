@@ -195,27 +195,27 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 **Conference Reviewing**
 
-`M2020`
+`F2020`
 *NeurIPS* (top 10% reviewer)
 
-`W2020`
+`M2020`
 *ICML* (special thanks)
 
-`W2019`
+`S2019`
 *ICML* (top 5% reviewer)
 
-`W2019`
+`S2019`
 *AAMAS* (subreviewer)
 
-`W2016`
+`F2016`
 *AAMAS* (subreviewer)
 
 **Workshop Reviewing**
 
-`F2020`
+`W2021`
 *AAAI-RLG*
 
-`F2019`
+`W2020`
 *AAAI-RLG*
 
 **Committees**
