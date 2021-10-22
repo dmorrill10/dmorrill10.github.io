@@ -95,11 +95,11 @@ Distinctions: First Class Honors, Industrial Internship Program
 `Sep 22, 2021`
 **Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *DeepMind Multi-Agent Weekly Meeting*.
 
-`Sep 22, 2021`
-[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-july-2021-dustin-morrill/)
-
 `Aug 20, 2021`
 **Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
+
+`Jul 30, 2021`
+[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-july-2021-dustin-morrill/)
 
 `Jun 11, 2021`
 **Dustin Morrill**. *Extensive-Form Regret Minimization: A Scalable Unifying Framework for Hindsight Rational Learning*. At *Brown Robotics Group Meeting*.
