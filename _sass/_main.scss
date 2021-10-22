@@ -8,9 +8,13 @@
   overflow    : auto;
   @media (min-width: 38rem) {
     margin-top : 0;
-    margin-left: 20%;
-    padding    : 3%;
+    margin-left: 0;
+    padding    : 1.5rem;
     min-width  : 80%;
+    max-width  : 80%;
+    display: inline-block;
+    vertical-align: top;
+    float: left;
   }
 
   .mainhead {
