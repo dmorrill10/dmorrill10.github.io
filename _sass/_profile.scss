@@ -53,14 +53,18 @@
     width      : 100%;
     color      : white;
 
-    .fab {
+    @media (min-width: 38em) {
+      margin-left: Min(25vw, 24px);
+    }
+
+    .fab, .fa {
       margin-left : -2vw;
       font-size   : 1.5em;
       margin-right: 6vw;
       @media (min-width: 38em) {
-        font-size   : 2vw;
+        font-size   : Min(2vw, 24px);
         margin-left : 0;
-        margin-right: 1.4vw;
+        margin-right: Min(1.4vw, 16px);
       }
     }
   }
