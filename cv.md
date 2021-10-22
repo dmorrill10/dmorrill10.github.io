@@ -92,6 +92,18 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ### Seminars
 
+`Sep 22, 2021`
+**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *DeepMind Multi-Agent Weekly Meeting*.
+
+`Sep 22, 2021`
+[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-july-2021-dustin-morrill/)
+
+`Aug 20, 2021`
+**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
+
+`Jun 11, 2021`
+**Dustin Morrill**. *Extensive-Form Regret Minimization: A Scalable Unifying Framework for Hindsight Rational Learning*. At *Brown Robotics Group Meeting*.
+
 `Apr 9, 2021`
 **Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
 
@@ -161,6 +173,9 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 **Dustin Morrill**. *The Annual Computer Poker Competition Poker Graphical User Interface*. At *Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)*.
 
 ### Videos
+
+`Jul 18, 2021`
+[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Thirty-Eighth International Conference on Machine Learning (ICML 2021)*.](https://icml.cc/virtual/2021/session/12043#sl-video-9550)
 
 `Feb 2, 2021`
 [**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)*.](https://slideslive.com/38949086/hindsight-and-sequential-rationality-of-correlated-play)
@@ -547,4 +562,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Jun 3, 2021
+#### Last updated: Oct 22, 2021
