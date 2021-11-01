@@ -82,6 +82,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Technical Reports
 
+`2021`
+[Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv, Oct 29, 2021*.](https://arxiv.org/abs/2110.15907)
+
 `2020`
 [Audrūnas Gruslys, Marc Lanctot, Rémi Munos, Finbarr Timbers, Martin Schmid, Julien Perolat, **Dustin Morrill**, Vinicius Zambaldi, Jean-Baptiste Lespiau, John Schultz, Mohammad Gheshlaghi Azar, Michael Bowling, and Karl Tuyls. *The Advantage Regret-Matching Actor-Critic*. *arXiv, Aug 27, 2020*.](https://arxiv.org/abs/2008.12234)
 
@@ -562,4 +565,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Oct 22, 2021
+#### Last updated: Nov 1, 2021
