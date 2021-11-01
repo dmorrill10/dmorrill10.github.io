@@ -213,6 +213,9 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 **Conference Reviewing**
 
+`F2021`
+*NeurIPS* (special thanks)
+
 `F2020`
 *NeurIPS* (top 10% reviewer)
 
