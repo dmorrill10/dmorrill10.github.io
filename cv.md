@@ -414,7 +414,7 @@ introductory computing science assignments.
 ## Accolades
 
 `2021`
-**Alberta Graduate Excellence Scholarship (AGES) ($12000)**
+**Alberta Graduate Excellence Scholarship (AGES) ($12,000)**
 
 `2016`
 **Science Graduate Scholarship ($2000)**
@@ -423,13 +423,13 @@ introductory computing science assignments.
 **CIFAR Deep Learning Summer School 2016 Travel Grant ($500)**
 
 `2016`
-**AITF Top-Up Award (Doctoral) ($36000)**
+**AITF Top-Up Award (Doctoral) ($36,000)**
 
 `2016`
-**NSERC Postgraduate Scholarships-Doctorate Program Award ($63000)**
+**NSERC Postgraduate Scholarships-Doctorate Program Award ($63,000)**
 
 `2016`
-**President's Doctoral Prize of Distinction ($21500)**
+**President's Doctoral Prize of Distinction ($21,500)**
 
 `2014`
 **Walter H Johns Graduate Fellowship ($5428.54)**
@@ -438,10 +438,10 @@ introductory computing science assignments.
 **1st-place 3-player Kuhn poker agent in the 2014 Annual Computer Poker Competition for the Computer Poker Research Group**
 
 `2014`
-**AITF Top-Up Award (Masters) ($12000)**
+**AITF Top-Up Award (Masters) ($12,000)**
 
 `2014`
-**NSERC Canada Graduate Scholarships-Master's Program Award ($17500)**
+**NSERC Canada Graduate Scholarships-Master's Program Award ($17,500)**
 
 `2013`
 **NSERC Undergraduate Student Research Award ($6000)**
