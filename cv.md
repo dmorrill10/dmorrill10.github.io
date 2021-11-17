@@ -83,6 +83,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Technical Reports
 
 `2021`
+[**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *arXiv, Nov 16, 2021*.](https://arxiv.org/abs/2111.08102)
+
+`2021`
 [Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv, Oct 29, 2021*.](https://arxiv.org/abs/2110.15907)
 
 `2020`
@@ -410,6 +413,9 @@ introductory computing science assignments.
 
 ## Accolades
 
+`2021`
+** ($12000)**
+
 `2016`
 **Science Graduate Scholarship ($2000)**
 
@@ -424,9 +430,6 @@ introductory computing science assignments.
 
 `2016`
 **President's Doctoral Prize of Distinction ($21500)**
-
-`2015`
-**2nd-place 3-player Kuhn poker agent in the 2015 Annual Computer Poker Competition**
 
 `2014`
 **Walter H Johns Graduate Fellowship ($5428.54)**
@@ -568,4 +571,4 @@ introductory computing science assignments.
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Nov 1, 2021
+#### Last updated: Nov 16, 2021

@@ -3,6 +3,7 @@ layout: default
 title: Dustin Morrill's Publications
 ---
 
+- [**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *arXiv, Nov 16, 2021*.](https://arxiv.org/abs/2111.08102)
 - [Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv, Oct 29, 2021*.](https://arxiv.org/abs/2110.15907)
 - [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021), Virtual*. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
 - [**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At the *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February 2-9, 2021, Virtual*. [Acceptance Rate: 21.4%].](https://arxiv.org/abs/2012.05874)
@@ -18,4 +19,4 @@ title: Dustin Morrill's Publications
 - [Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. *Solving Games with Functional Regret Estimation*. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
 {: .publications-list}
 
-#### Last updated: Nov 1, 2021
+#### Last updated: Nov 16, 2021
