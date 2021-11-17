@@ -414,7 +414,7 @@ introductory computing science assignments.
 ## Accolades
 
 `2021`
-** ($12000)**
+**Alberta Graduate Excellence Scholarship (AGES) ($12000)**
 
 `2016`
 **Science Graduate Scholarship ($2000)**
