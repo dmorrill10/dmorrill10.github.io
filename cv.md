@@ -20,7 +20,7 @@ Machine intelligence researcher
 Ph.D. candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning.
 Graduating in Winter 2022.
 Seeking a research scientist position in Edmonton, Alberta, Canada or remote.
-Particularly interested in developing algorithmic game theory methods to solve continual learning problems.
+Particularly interested in bringing algorithmic game theory methods outside of their usual purview to more general settings like continual learning.
 
 ## Education
 
