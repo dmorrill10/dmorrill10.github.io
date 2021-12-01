@@ -336,6 +336,7 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 *Undergraduate Research Mentor*
 
 `Jan-Apr 2018`{: class='work-experience'}
+**Hyperborean Inc.**, Edmonton
 
 *Application Developer*
 
