@@ -337,7 +337,7 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 `Jan-Apr 2018`{: class='work-experience'}
 
-*Programming Contractor*
+*Application Developer*
 
 `May-Aug 2013`{: class='work-experience'}
 **University of Alberta**, Edmonton
