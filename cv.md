@@ -340,6 +340,11 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 *Application Developer*
 
+`May-Aug 2016`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Course Development Assistant*
+
 `May-Aug 2013`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
@@ -371,11 +376,6 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 
 ## Teaching
-
-`S2016/M2016`
-**CMPUT 396 (Games, Puzzles, and Algorithms)**, University of Alberta
-
-*Part-Time Course Development Assistant*
 
 `W2016`
 **CMPUT 275 (Introduction to Tangible Computing II)**, University of Alberta
