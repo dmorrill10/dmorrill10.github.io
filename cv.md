@@ -19,7 +19,8 @@ Machine intelligence researcher
 
 Ph.D. candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning.
 Graduating in Winter 2022.
-Seeking a research scientist position in Edmonton, Alberta, Canada.
+Seeking a research scientist position in Edmonton, Alberta, Canada or remote.
+Particularly interested in bringing algorithmic game theory methods to solve continual learning problems.
 
 ## Education
 
@@ -470,4 +471,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Nov 17, 2021
+#### Last updated: Dec 1, 2021
