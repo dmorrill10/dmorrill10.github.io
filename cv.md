@@ -8,6 +8,8 @@ Machine intelligence researcher
 <div id="webaddress">
   <i class="fas fa-envelope" aria-hidden="true"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
   |
+  <i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=Nwgz1bsAAAAJ&hl=en&authuser=1&oi=ao">Dustin Morrill</a>
+  |
   <i class="fab fa-github" aria-hidden="true"></i> <a href="http://github.com/dmorrill10">dmorrill10</a>
   |
   <i class="fab fa-linkedin" aria-hidden="true"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
@@ -472,4 +474,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Dec 1, 2021
+#### Last updated: Dec 9, 2021
