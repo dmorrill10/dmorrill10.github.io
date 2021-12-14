@@ -105,6 +105,68 @@ Distinctions: First Class Honors, Industrial Internship Program
 `2019`
 [Marc Lanctot, Edward Lockhart, Jean-Baptiste Lespiau, Vinicius Zambaldi, Satyaki Upadhyay, Julien Pérolat, Sriram Srinivasan, Finbarr Timbers, Karl Tuyls, Shayegan Omidshafiei, Daniel Hennes, **Dustin Morrill**, Paul Muller, Timo Ewalds, Ryan Faulkner, János Kramár, Bart De Vylder, Brennan Saeta, James Bradbury, David Ding, Sebastian Borgeaud, Matthew Lai, Julian Schrittwieser, Thomas Anthony, Edward Hughes, Ivo Danihelka, and Jonah Ryan-Davis. *OpenSpiel: A Framework for Reinforcement Learning in Games*. *arXiv, Aug 26, 2019*.](http://arxiv.org/abs/1908.09453)
 
+## Work Experience
+
+`2019-2022`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Graduate Research Assistant*
+
+`May-Aug 2019`{: class='work-experience'}
+**DeepMind**, Edmonton
+
+*Research Scientist Intern*
+
+`2014-2019`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Graduate Research Assistant*
+
+`May-Dec 2018`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Undergraduate Research Mentor*
+
+`Jan-Apr 2018`{: class='work-experience'}
+**Hyperborean Inc.**, Edmonton
+
+*Application Developer*
+
+`May-Aug 2016`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Course Development Assistant*
+
+`May-Aug 2013`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Undergraduate Researcher*
+
+`2011-2013`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Part-Time Undergraduate Researcher*
+
+`2011-2012`{: class='work-experience'}
+**CDL Systems Ltd.**, Calgary, AB, Canada
+
+
+*Software Developer Intern*
+
+`May-Aug 2010`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Undergraduate Researcher*
+
+`May-Aug 2009`{: class='work-experience'}
+**University of Alberta**, Edmonton
+
+*Undergraduate Researcher*
+
+
+
+
+
 ## Presentations and Outreach
 
 ### Seminars
@@ -323,68 +385,6 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 `2008`
 *Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)*
 
-## Work Experience
-
-`Aug 2019-Apr 2022`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Graduate Research Assistant*
-
-`May-Aug 2019`{: class='work-experience'}
-**DeepMind**, Edmonton
-
-*Research Scientist Intern*
-
-`May 2014-May 2019`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Graduate Research Assistant*
-
-`May-Dec 2018`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Undergraduate Research Mentor*
-
-`Jan-Apr 2018`{: class='work-experience'}
-**Hyperborean Inc.**, Edmonton
-
-*Application Developer*
-
-`May-Aug 2016`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Course Development Assistant*
-
-`May-Aug 2013`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Undergraduate Researcher*
-
-`Aug 2011-Apr 2013`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Part-Time Undergraduate Researcher*
-
-`May 2011-Aug 2012`{: class='work-experience'}
-**CDL Systems Ltd.**, Calgary, AB, Canada
-
-
-*Software Developer Intern*
-
-`May-Aug 2010`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Undergraduate Researcher*
-
-`May-Aug 2009`{: class='work-experience'}
-**University of Alberta**, Edmonton
-
-*Undergraduate Researcher*
-
-
-
-
-
 ## Teaching
 
 `W2016`
@@ -426,7 +426,7 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 *Participant*
 
-`Jan 2010-Aug 2012`{: class='community-service'}
+`2010-2012`{: class='community-service'}
 **Golden Key International Honour Society, University of Alberta Chapter**, Edmonton, AB
 
 *VP Communications and Webmaster*
@@ -436,17 +436,17 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 *Volunteer*
 
-`Sep 2010-Apr 2011`{: class='community-service'}
+`2010-2011`{: class='community-service'}
 **University of Alberta Campust Food Bank**, Edmonton, AB
 
 *Team Leader*
 
-`May 2009-Aug 2010`{: class='community-service'}
+`2009-2010`{: class='community-service'}
 **University of Alberta Campust Food Bank**, Edmonton, AB
 
 *Volunteer*
 
-`Sep 2009-Apr 2010`{: class='community-service'}
+`2009-2010`{: class='community-service'}
 **University of Alberta Faculty of Science**, Edmonton, AB
 
 *Science Mentor*
@@ -461,17 +461,17 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 *Volunteer*
 
-`Sep 2007-Apr 2008`{: class='community-service'}
+`2007-2008`{: class='community-service'}
 **Barrhead Skating Club**, Barrhead, AB
 
 *Assistant CanSkate Coach*
 
-`Sep 2007-Apr 2008`{: class='community-service'}
+`2007-2008`{: class='community-service'}
 **Barrhead Skating Club**, Barrhead, AB
 
 *Assistant Power Skating Coach*
 
-`Feb 2003-Jun 2004`{: class='community-service'}
+`2003-2004`{: class='community-service'}
 **Silent River Kung Fu**, Stony Plain, AB
 
 *Assistant Kung Fu Instructor*

@@ -63,9 +63,13 @@ body {
 	margin-left: 1em;
 }
 
+:root {
+	--main-column-left: 28%;
+}
+
 p {
 	position: relative;
-	left: 33%;
+	left: var(--main-column-left);
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 65%;
@@ -81,13 +85,13 @@ code {
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -10%;
 }
 
 
 ul {
 	position: relative;
-	left: 33%;
+	left: var(--main-column-left);
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
@@ -125,7 +129,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 33%;
+	left: var(--main-column-left);
 }
 
 h1+p {
@@ -167,7 +171,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: var(--main-column-left);
 	color: #666;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
