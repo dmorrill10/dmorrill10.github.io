@@ -88,13 +88,13 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ### Workshop Articles
 
+`2022`
+[**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *AAAI-22 Workshop on Reinforcement Learning in Games, Feb 28, 2022, Vancouver, Canada*.](https://arxiv.org/abs/2111.08102)
+
 `2019`
-[Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. *Bounds for Approximate Regret-Matching Algorithms*. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at the Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019), Dec 14, 2019, Vancouver, Canada*.](https://arxiv.org/abs/1910.01706)
+[Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. *Bounds for Approximate Regret-Matching Algorithms*. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at NeurIPS 2019, Dec 14, 2019, Vancouver, Canada*.](https://arxiv.org/abs/1910.01706)
 
 ### Technical Reports
-
-`2021`
-[**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *arXiv, Nov 16, 2021*.](https://arxiv.org/abs/2111.08102)
 
 `2021`
 [Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv, Oct 29, 2021*.](https://arxiv.org/abs/2110.15907)
@@ -482,4 +482,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Dec 13, 2021
+#### Last updated: Dec 14, 2021
