@@ -1,9 +1,17 @@
 ---
 layout: cv
-title: Dustin Morrill's CV
+title: Dustin Morrill
 ---
 # Dustin Morrill
 Machine intelligence researcher
+
+<p class="pdf-download-button hide-in-pdf"><button onclick="printFunction()">
+<i class="fas fa-print"></i></button>​</p>
+<script>
+  function printFunction() {
+    window.print();
+  }
+</script>
 
 <div id="webaddress">
   <i class="fas fa-envelope" aria-hidden="true"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
@@ -26,7 +34,7 @@ Particularly interested in bringing algorithmic game theory methods outside of t
 
 ## Education
 
-`2016-present`
+`2016-2022`
 **Ph.D., Computing Science**, University of Alberta
 
 Co-advisors: Professor Michael Bowling and Professor Amy Greenwald
@@ -45,17 +53,17 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Publications
 
-## Theses
+### Theses
 
 `2016`
 [**Dustin Morrill**. *Using Regret Estimation to Solve Games Compactly*. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
 
-## Journal Articles
+### Journal Articles
 
 `2017`
 [Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. *DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker*. In *Science, Mar 2, 2017*.](assets/publications/17science.pdf)
 
-## Refereed Conferences
+### Refereed Conferences
 
 `2021`
 [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021), Virtual*. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
@@ -78,12 +86,12 @@ Distinctions: First Class Honors, Industrial Internship Program
 `2015`
 [Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. *Solving Games with Functional Regret Estimation*. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
 
-## Workshop Articles
+### Workshop Articles
 
 `2019`
 [Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. *Bounds for Approximate Regret-Matching Algorithms*. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at the Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019), Dec 14, 2019, Vancouver, Canada*.](https://arxiv.org/abs/1910.01706)
 
-## Technical Reports
+### Technical Reports
 
 `2021`
 [**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *arXiv, Nov 16, 2021*.](https://arxiv.org/abs/2111.08102)
@@ -97,12 +105,130 @@ Distinctions: First Class Honors, Industrial Internship Program
 `2019`
 [Marc Lanctot, Edward Lockhart, Jean-Baptiste Lespiau, Vinicius Zambaldi, Satyaki Upadhyay, Julien Pérolat, Sriram Srinivasan, Finbarr Timbers, Karl Tuyls, Shayegan Omidshafiei, Daniel Hennes, **Dustin Morrill**, Paul Muller, Timo Ewalds, Ryan Faulkner, János Kramár, Bart De Vylder, Brennan Saeta, James Bradbury, David Ding, Sebastian Borgeaud, Matthew Lai, Julian Schrittwieser, Thomas Anthony, Edward Hughes, Ivo Danihelka, and Jonah Ryan-Davis. *OpenSpiel: A Framework for Reinforcement Learning in Games*. *arXiv, Aug 26, 2019*.](http://arxiv.org/abs/1908.09453)
 
+## Presentations and Outreach
+
+### Seminars
+
+`Sep 2021`
+**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *DeepMind Multi-Agent Weekly Meeting*.
+
+`Aug 2021`
+**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
+
+`Jul 2021`
+[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-july-2021-dustin-morrill/)
+
+`Jun 2021`
+**Dustin Morrill**. *Extensive-Form Regret Minimization: A Scalable Unifying Framework for Hindsight Rational Learning*. At *Brown Robotics Group Meeting*.
+
+`Apr 2021`
+**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
+
+`Mar 2021`
+[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-2021-dustin-morrill)
+
+`Mar 2021`
+**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *DeepMind Game Theory Group*.
+
+`Apr 2020`
+**Dustin Morrill**. *Thesis Proposal*. At *University of Alberta*.
+
+`Oct 2019`
+**Dustin Morrill**. *Internship Work Follow-Up Presentation*. At *DeepMind Alberta*.
+
+`Aug 2019`
+**Dustin Morrill**. *Internship Conclusion Presentation*. At *DeepMind Alberta*.
+
+`Aug 2018`
+**Dustin Morrill**, Michael Bowling, and Fatima Davelouis. *AI Safety Through Robust Planning*. At *Alberta Machine Intelligence Institute Tea-time Talk*.
+
+`Apr 2018`
+**Dustin Morrill**. *AI Safety Through Robust Planning*. At *University of British Columbia (hosted by Professor David Poole)*.
+
+`Aug 2014`
+**Dustin Morrill**. *Regression Counterfactual Regret Minimization*. At *University of Alberta Reinforcement Learning and Artificial Intelligence Tea-time Talk*.
+
+### Demonstrations
+
+`Oct 2020`
+Spencer Murray and **Dustin Morrill**. *Applied AI and Poker: DeepStack*. At *World Summit AI 2020*.
+
+`Mar 2018`
+**Dustin Morrill**. *DeepStack exhibition match*. At *University of Alberta Computing Science Graduate Student's Association Klatch: Casino Royale*.
+
+`Feb 2018`
+**Dustin Morrill**. *Computer poker and DeepStack demonstration*. At *University of Alberta Department of Computing Science: Reverse Expo*.
+
+`Jan 2018`
+**Dustin Morrill**. *Computer poker and DeepStack demonstration*. At *Telus World of Science: Dark Matters: Game On!*.
+
+`Feb 2017`
+Martin Schmid, **Dustin Morrill**, and Michael Bowling. *Play DeepStack on a Commodity Gaming Laptop*. At *Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)*.
+
+`Jun 2016`
+Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. *Computer poker and Cepheus demonstration (2)*. At *CANHEIT HPCS 2016*.
+
+`Jun 2016`
+Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. *Computer poker and Cepheus demonstration (1)*. At *CANHEIT HPCS 2016*.
+
+`Dec 2015`
+**Dustin Morrill**, Michael Johanson, and Viliam Lisy. *Computer poker and Cepheus demonstration*. At *Telus World of Science: Dark Matters: Game On!*.
+
+`Jan 2015`
+Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. *Computer poker and Cepheus demonstration (2)*. At *AAAI-15 Games Showcase*.
+
+`Jan 2015`
+Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. *Computer poker and Cepheus demonstration (1)*. At *AAAI-15 Games Showcase*.
+
+`Jan 2015`
+Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. *Computer poker and Cepheus demonstration*. At *AAAI-15 Open House*.
+
+`Sep 2014`
+Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstration*. At *University of Alberta computing science department's 50th anniversary open house*.
+
+`Jul 2013`
+**Dustin Morrill**. *The Annual Computer Poker Competition Poker Graphical User Interface*. At *Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)*.
+
+### Videos
+
+`Jul 2021`
+[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Thirty-Eighth International Conference on Machine Learning (ICML 2021)*.](https://icml.cc/virtual/2021/session/12043#sl-video-9550)
+
+`Feb 2021`
+[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)*.](https://slideslive.com/38949086/hindsight-and-sequential-rationality-of-correlated-play)
+
+`May 2017`
+[Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Bryan Paris on Twitch.tv*. At *Twitch.tv*.](https://www.youtube.com/watch?v=SI-i-fQBv1Y)
+
+`Apr 2017`
+[Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/ptWchEBbaOk)
+
+`Apr 2017`
+[Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Dutch Boyd on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/yAYTh1dz_AU)
+
+`Apr 2017`
+[Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against the 2+2 Pokercast on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/RiA3QJ3GhBk)
+
+`Mar 2017`
+[Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. *DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/HAshTeOad2s)
+
+### Podcasts
+
+`Aug 2017`
+[Adam Schwartz, Terrence Chan, and **Dustin Morrill**. *TwoPlusTwo Pokercast---Episode 471*. At *pokercast.twoplustwo.com*.](https://pokercast.twoplustwo.com/pokercast.php?pokercast=471)
+
+`Aug 2017`
+[Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. *Thinking Poker Podcast---Episode 225: Taking the Variance out of Poker*. At *thinkingpoker.net*.](http://www.thinkingpoker.net/2017/08/episode-225-taking-the-variance-out-of-poker/)
+
+`Apr 2017`
+[Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. *Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill*. At *thinkingpoker.net*.](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill)
+
 ## Academic Service
 
-**Conference Reviewing**
+### Conference Reviewing
 
 `F2021`
-*NeurIPS* (special thanks)
+*NeurIPS*
 
 `F2020`
 *NeurIPS* (top 10% reviewer)
@@ -119,7 +245,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 `F2016`
 *AAMAS* (subreviewer)
 
-**Workshop Reviewing**
+### Workshop Reviewing
 
 `W2021`
 *AAAI-RLG*
@@ -127,7 +253,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 `W2020`
 *AAAI-RLG*
 
-**Committees**
+### Committees
 
 `W2021`
 *CIFAR AICan Student Advisory Committee*
@@ -135,189 +261,71 @@ Distinctions: First Class Honors, Industrial Internship Program
 ## Accolades
 
 `2021`
-**Alberta Graduate Excellence Scholarship (AGES) ($12,000)**
+*Alberta Graduate Excellence Scholarship (AGES) ($12,000)*
 
 `2016`
-**Science Graduate Scholarship ($2000)**
+*Science Graduate Scholarship ($2000)*
 
 `2016`
-**CIFAR Deep Learning Summer School 2016 Travel Grant ($500)**
+*CIFAR Deep Learning Summer School 2016 Travel Grant ($500)*
 
 `2016`
-**Alberta Innovates Graduate Student Scholarship (Doctoral) ($36,000)**
+*Alberta Innovates Graduate Student Scholarship (Doctoral) ($36,000)*
 
 `2016`
-**NSERC Postgraduate Scholarship--Doctorate Program Award ($63,000)**
+*NSERC Postgraduate Scholarship--Doctorate Program Award ($63,000)*
 
 `2016`
-**President's Doctoral Prize of Distinction ($21,500)**
+*President's Doctoral Prize of Distinction ($21,500)*
 
 `2014`
-**Walter H Johns Graduate Fellowship ($5433.84)**
+*Walter H Johns Graduate Fellowship ($5433.84)*
 
 `2014`
-**Winning submission, 3-player Kuhn poker competition, 2014 Annual Computer Poker Competition**
+*Winning submission, 3-player Kuhn poker competition, 2014 Annual Computer Poker Competition*
 
 `2014`
-**AITF ICT (Masters) ($12,000)**
+*AITF ICT (Masters) ($12,000)*
 
 `2014`
-**Alexander Graham Bell Canada Graduate Scholarship - Master's (NSERC) ($17,500)**
+*Alexander Graham Bell Canada Graduate Scholarship - Master's (NSERC) ($17,500)*
 
 `2013`
-**NSERC Undergraduate Student Research Award ($6000)**
+*NSERC Undergraduate Student Research Award ($6000)*
 
 `2011`
-**Jason Lang Scholarship ($1000)**
+*Jason Lang Scholarship ($1000)*
 
 `2011`
-**Amdahl Academic Achievement Scholarship in Computing Science ($1750)**
+*Amdahl Academic Achievement Scholarship in Computing Science ($1750)*
 
 `2010`
-**Jason Lang Scholarship ($1000)**
+*Jason Lang Scholarship ($1000)*
 
 `2010`
-**Barry J Mailloux Prize in Computing Science ($1350)**
+*Barry J Mailloux Prize in Computing Science ($1350)*
 
 `2010`
-**NSERC Undergraduate Student Research Award ($6000)**
+*NSERC Undergraduate Student Research Award ($6000)*
 
 `2009`
-**Jason Lang Scholarship ($1000)**
+*Jason Lang Scholarship ($1000)*
 
 `2008`
-**Alexander Rutherford High School Achievement Scholarship ($2500)**
+*Alexander Rutherford High School Achievement Scholarship ($2500)*
 
 `2008`
-**Barrhead Minor Hockey Association Scholarship ($500)**
+*Barrhead Minor Hockey Association Scholarship ($500)*
 
 `2008`
-**Robert Tegler Entrance Scholarship ($2500)**
+*Robert Tegler Entrance Scholarship ($2500)*
 
 `2008`
-**Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)**
-
-## Presentations and Outreach
-
-### Seminars
-
-`Sep 22, 2021`
-**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *DeepMind Multi-Agent Weekly Meeting*.
-
-`Aug 20, 2021`
-**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
-
-`Jul 30, 2021`
-[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-july-2021-dustin-morrill/)
-
-`Jun 11, 2021`
-**Dustin Morrill**. *Extensive-Form Regret Minimization: A Scalable Unifying Framework for Hindsight Rational Learning*. At *Brown Robotics Group Meeting*.
-
-`Apr 9, 2021`
-**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *Berkeley Multi-Agent Reinforcement Learning Reading Group*.
-
-`Mar 26, 2021`
-[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *Alberta Machine Intelligence Institute AI Seminar*.](https://www.amii.ca/latest-from-amii/ai-seminar-series-2021-dustin-morrill)
-
-`Mar 12, 2021`
-**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight Rationality and Deviation Types in EFGs*. At *DeepMind Game Theory Group*.
-
-`Apr 30, 2020`
-**Dustin Morrill**. *Thesis Proposal*. At *University of Alberta*.
-
-`Oct 11, 2019`
-**Dustin Morrill**. *Internship Work Follow-Up Presentation*. At *DeepMind Alberta*.
-
-`Aug 9, 2019`
-**Dustin Morrill**. *Internship Conclusion Presentation*. At *DeepMind Alberta*.
-
-`Aug 2, 2018`
-**Dustin Morrill**, Michael Bowling, and Fatima Davelouis. *AI Safety Through Robust Planning*. At *Alberta Machine Intelligence Institute Tea-time Talk*.
-
-`Apr 26, 2018`
-**Dustin Morrill**. *AI Safety Through Robust Planning*. At *University of British Columbia (hosted by Professor David Poole)*.
-
-`Aug 21, 2014`
-**Dustin Morrill**. *Regression Counterfactual Regret Minimization*. At *University of Alberta Reinforcement Learning and Artificial Intelligence Tea-time Talk*.
-
-### Demonstrations
-
-`Oct 22, 2020`
-Spencer Murray and **Dustin Morrill**. *Applied AI and Poker: DeepStack*. At *World Summit AI 2020*.
-
-`Mar 8, 2018`
-**Dustin Morrill**. *DeepStack exhibition match*. At *University of Alberta Computing Science Graduate Student's Association Klatch: Casino Royale*.
-
-`Feb 16, 2018`
-**Dustin Morrill**. *Computer poker and DeepStack demonstration*. At *University of Alberta Department of Computing Science: Reverse Expo*.
-
-`Jan 25, 2018`
-**Dustin Morrill**. *Computer poker and DeepStack demonstration*. At *Telus World of Science: Dark Matters: Game On!*.
-
-`Feb 5, 2017`
-Martin Schmid, **Dustin Morrill**, and Michael Bowling. *Play DeepStack on a Commodity Gaming Laptop*. At *Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17)*.
-
-`Jun 21, 2016`
-Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. *Computer poker and Cepheus demonstration (2)*. At *CANHEIT HPCS 2016*.
-
-`Jun 20, 2016`
-Nolan Bard, Neil Burch, Viliam Lisy, Trevor Davis, **Dustin Morrill**, and Michael Bowling. *Computer poker and Cepheus demonstration (1)*. At *CANHEIT HPCS 2016*.
-
-`Dec 10, 2015`
-**Dustin Morrill**, Michael Johanson, and Viliam Lisy. *Computer poker and Cepheus demonstration*. At *Telus World of Science: Dark Matters: Game On!*.
-
-`Jan 29, 2015`
-Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. *Computer poker and Cepheus demonstration (2)*. At *AAAI-15 Games Showcase*.
-
-`Jan 28, 2015`
-Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. *Computer poker and Cepheus demonstration (1)*. At *AAAI-15 Games Showcase*.
-
-`Jan 26, 2015`
-Michael Bowling, Robert Holte, Michael Johanson, Neil Burch, Nolan Bard, **Dustin Morrill**, and Trevor Davis. *Computer poker and Cepheus demonstration*. At *AAAI-15 Open House*.
-
-`Sep 20, 2014`
-Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstration*. At *University of Alberta computing science department's 50th anniversary open house*.
-
-`Jul 14, 2013`
-**Dustin Morrill**. *The Annual Computer Poker Competition Poker Graphical User Interface*. At *Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)*.
-
-### Videos
-
-`Jul 18, 2021`
-[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At *Thirty-Eighth International Conference on Machine Learning (ICML 2021)*.](https://icml.cc/virtual/2021/session/12043#sl-video-9550)
-
-`Feb 2, 2021`
-[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)*.](https://slideslive.com/38949086/hindsight-and-sequential-rationality-of-correlated-play)
-
-`May 4, 2017`
-[Bryan Paris, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Bryan Paris on Twitch.tv*. At *Twitch.tv*.](https://www.youtube.com/watch?v=SI-i-fQBv1Y)
-
-`Apr 19, 2017`
-[Taylor von Kriegenbergh, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Taylor von Kriegenbergh on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/ptWchEBbaOk)
-
-`Apr 13, 2017`
-[Dutch Boyd, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against Dutch Boyd on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/yAYTh1dz_AU)
-
-`Apr 5, 2017`
-[Adam Schwartz, Terrence Chan, Michael Johanson, Nolan Bard, and **Dustin Morrill**. *DeepStack Plays Poker Against the 2+2 Pokercast on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/RiA3QJ3GhBk)
-
-`Mar 29, 2017`
-[Andrew Brokos, Nate Meyvis, Michael Johanson, Nolan Bard, **Dustin Morrill**, and Michael Bowling. *DeepStack Plays Poker Against the Thinking Poker Podcast on Twitch.tv*. At *Twitch.tv*.](https://youtu.be/HAshTeOad2s)
-
-### Podcasts
-
-`Aug 31, 2017`
-[Adam Schwartz, Terrence Chan, and **Dustin Morrill**. *TwoPlusTwo Pokercast---Episode 471*. At *pokercast.twoplustwo.com*.](https://pokercast.twoplustwo.com/pokercast.php?pokercast=471)
-
-`Aug 22, 2017`
-[Andrew Brokos, Nate Meyvis, Michael Bowling, and **Dustin Morrill**. *Thinking Poker Podcast---Episode 225: Taking the Variance out of Poker*. At *thinkingpoker.net*.](http://www.thinkingpoker.net/2017/08/episode-225-taking-the-variance-out-of-poker/)
-
-`Apr 10, 2017`
-[Andrew Brokos, Nate Meyvis, Michael Johanson, and **Dustin Morrill**. *Thinking Poker Podcast---Episode 210: Michael Johanson and Dustin Morrill*. At *thinkingpoker.net*.](http://www.thinkingpoker.net/2017/04/episode-210-michael-johanson-and-dustin-morrill)
+*Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)*
 
 ## Work Experience
 
-`Aug 2019-present`{: class='work-experience'}
+`Aug 2019-Apr 2022`{: class='work-experience'}
 **University of Alberta**, Edmonton
 
 *Graduate Research Assistant*
@@ -413,7 +421,7 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 ## Community Service
 
-`Mar 17, 2018`{: class='community-service'}
+`Mar 2018`{: class='community-service'}
 **United Nations Habitat Urban Thinkers Campus: The Edmonton We Need: Accelerating the Transition to Sustainability**, Edmonton Clinic Health Academy, Edmonton, AB
 
 *Participant*
@@ -423,7 +431,7 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 *VP Communications and Webmaster*
 
-`Jan 18, 2012`{: class='community-service'}
+`Jan 2012`{: class='community-service'}
 **The Mustard Seed**, Calgary, AB
 
 *Volunteer*
@@ -443,12 +451,12 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 *Science Mentor*
 
-`Oct 3, 2009`{: class='community-service'}
+`Oct 2009`{: class='community-service'}
 **University of Alberta Computing Science Department**, Edmonton, AB
 
 *Volunteer*
 
-`Sep 18, 2009`{: class='community-service'}
+`Sep 2009`{: class='community-service'}
 **Science 100**, Edmonton, AB
 
 *Volunteer*
@@ -474,4 +482,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Dec 9, 2021
+#### Last updated: Dec 13, 2021
