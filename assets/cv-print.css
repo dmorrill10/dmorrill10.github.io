@@ -82,6 +82,8 @@ code {
   @bottom-right {
     content: counter(page) " of " counter(pages);
   }
+	margin-top: 1cm;
+	margin-bottom: 1.5cm;
 }
 
 p code {
@@ -153,7 +155,7 @@ h2 {
 	font-size: 1.1em;
 	/*color: #a00;*/
 	color: black;
-	margin-top: 0.5em;
+	margin-top: 0.3em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
