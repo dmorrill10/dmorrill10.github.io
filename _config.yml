@@ -1,5 +1,7 @@
 markdown:       kramdown
-url:            http://dmorrill10.github.io/
+url:            https://dmorrill10.github.io/
+sass:
+  processImport: false
 nav:
   -
     name:       About
