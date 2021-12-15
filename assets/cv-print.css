@@ -87,7 +87,7 @@ code {
     content: counter(page) " of " counter(pages);
   }
 	margin-top: 1cm;
-	margin-bottom: 1.5cm;
+	margin-bottom: 1.8cm;
 }
 
 p code {

@@ -112,7 +112,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 *Graduate Research Assistant*
 
-`May-Aug 2019`{: class='work-experience'}
+`Mar-Aug 2019`{: class='work-experience'}
 **DeepMind**, Edmonton
 
 *Research Scientist Intern*
@@ -166,6 +166,23 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 
 
+
+## Supervision
+
+`2020-2021`
+**Montaser Mohammedalamen** at University of Alberta
+
+*M.Sc., African Institute for Mathematical Sciences*
+
+`2020-2021`
+**Alexander Sieusahai** at University of Alberta
+
+*B.Sc., University of Alberta*
+
+`2018-2019`
+**Fatima Davelouis Gallardo** at University of Alberta
+
+*B.Sc., University of Alberta*
 
 ## Presentations and Outreach
 
@@ -482,4 +499,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Dec 14, 2021
+#### Last updated: Dec 15, 2021
