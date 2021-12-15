@@ -56,54 +56,54 @@ Distinctions: First Class Honors, Industrial Internship Program
 ### Theses
 
 `2016`
-[**Dustin Morrill**. *Using Regret Estimation to Solve Games Compactly*. *M.Sc. thesis, Computing Science Department, University of Alberta, Apr 1, 2016, Edmonton Alberta, Canada*.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
+[**Dustin Morrill**. *Using Regret Estimation to Solve Games Compactly*. *M.Sc. thesis, Department of Computing Science, University of Alberta*, Apr 1, 2016. Edmonton, Canada.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
 
 ### Journal Articles
 
 `2017`
-[Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. *DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker*. In *Science, Mar 2, 2017*.](assets/publications/17science.pdf)
+[Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. *DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker*. In *Science*, Mar 2, 2017.](assets/publications/17science.pdf)
 
 ### Refereed Conferences
 
 `2021`
-[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021), Virtual*. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
+[**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021)*, Jul 18, 2021. Virtual. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
 
 `2021`
-[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At the *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), February 2-9, 2021, Virtual*. [Acceptance Rate: 21.4%].](https://arxiv.org/abs/2012.05874)
+[**Dustin Morrill**, Ryan D'Orazio, Reca Sarfati, Marc Lanctot, James R. Wright, Amy Greenwald, and Michael Bowling. *Hindsight and Sequential Rationality of Correlated Play*. At the *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)*, Feb 2, 2021. Virtual. [Acceptance Rate: 21.4%].](https://arxiv.org/abs/2012.05874)
 
 `2020`
-[Daniel Hennes[1], **Dustin Morrill[1]**, Shayegan Omidshafiei[1], Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, Paavo Parmas, Edgar Duéñez-Guzmán, and Karl Tuyls. *Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2020), Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1906.00190)
+[Daniel Hennes[1], **Dustin Morrill[1]**, Shayegan Omidshafiei[1], Remi Munos, Julien Perolat, Marc Lanctot, Audrunas Gruslys, Jean-Baptiste Lespiau, Paavo Parmas, Edgar Duéñez-Guzmán, and Karl Tuyls. *Neural Replicator Dynamics: Multiagent Learning via Hedging Policy Gradients*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2020)*, May 9, 2020. Auckland, New Zealand. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1906.00190)
 
 `2020`
-[Ryan D'Orazio[1], **Dustin Morrill[1]**, James R. Wright, and Michael Bowling. *Alternative Function Approximation Parameterizations for Solving Games: An Analysis of f-Regression Counterfactual Regret Minimization*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2020), Auckland, New Zealand*. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1912.02967)
+[Ryan D'Orazio[1], **Dustin Morrill[1]**, James R. Wright, and Michael Bowling. *Alternative Function Approximation Parameterizations for Solving Games: An Analysis of f-Regression Counterfactual Regret Minimization*. At the *Nineteenth International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2020)*, May 9, 2020. Auckland, New Zealand. [Acceptance Rate: 23.0%].](https://arxiv.org/abs/1912.02967)
 
 `2019`
-[Edward Lockhart, Marc Lanctot, Julien Pérolat, Jean-Baptiste Lespiau, **Dustin Morrill**, Finbarr Timbers, and Karl Tuyls. *Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent*. At the *Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI 2019), Macao, China*. [Acceptance Rate: 17.9%].](https://arxiv.org/abs/1903.05614)
+[Edward Lockhart, Marc Lanctot, Julien Pérolat, Jean-Baptiste Lespiau, **Dustin Morrill**, Finbarr Timbers, and Karl Tuyls. *Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent*. At the *Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI 2019)*, Aug 10, 2019. Macao, China. [Acceptance Rate: 17.9%].](https://arxiv.org/abs/1903.05614)
 
 `2018`
-[Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. *AIVAT:       A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games*. At the *Thirty-Second AAAI Conference on Artificial Intelligence, February 2-7, 2018, New Orleans Louisiana, USA*. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf)
+[Neil Burch, Martin Schmid, Matej Moravčík, **Dustin Morrill**, and Michael Bowling. *AIVAT:       A New Variance Reduction Technique for Agent Evaluation in Imperfect Information Games*. At the *Thirty-Second AAAI Conference on Artificial Intelligence*, Feb 2, 2018. New Orleans, USA. [Acceptance Rate: 24.6%].](assets/publications/aaai18-burch-aivat.pdf)
 
 `2015`
-[Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. *Solving Games with Functional Regret Estimation*. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-29, 2015, Austin Texas, USA*. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
+[Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. *Solving Games with Functional Regret Estimation*. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence*, Jan 25, 2015. Austin, USA. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
 
 ### Workshop Articles
 
 `2022`
-[**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *AAAI-22 Workshop on Reinforcement Learning in Games, Feb 28, 2022, Vancouver, Canada*.](https://arxiv.org/abs/2111.08102)
+[**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *AAAI-22 Workshop on Reinforcement Learning in Games*, Feb 28, 2022. Vancouver, Canada.](https://arxiv.org/abs/2111.08102)
 
 `2019`
-[Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. *Bounds for Approximate Regret-Matching Algorithms*. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at NeurIPS 2019, Dec 14, 2019, Vancouver, Canada*.](https://arxiv.org/abs/1910.01706)
+[Ryan D'Orazio, **Dustin Morrill**, and James R. Wright. *Bounds for Approximate Regret-Matching Algorithms*. *Smooth Games Optimization and Machine Learning Workshop: Bridging Game Theory and Deep Learning (SGO&ML) at NeurIPS 2019*, Dec 14, 2019. Vancouver, Canada.](https://arxiv.org/abs/1910.01706)
 
 ### Technical Reports
 
 `2021`
-[Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv, Oct 29, 2021*.](https://arxiv.org/abs/2110.15907)
+[Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv*, Oct 29, 2021.](https://arxiv.org/abs/2110.15907)
 
 `2020`
-[Audrūnas Gruslys, Marc Lanctot, Rémi Munos, Finbarr Timbers, Martin Schmid, Julien Perolat, **Dustin Morrill**, Vinicius Zambaldi, Jean-Baptiste Lespiau, John Schultz, Mohammad Gheshlaghi Azar, Michael Bowling, and Karl Tuyls. *The Advantage Regret-Matching Actor-Critic*. *arXiv, Aug 27, 2020*.](https://arxiv.org/abs/2008.12234)
+[Audrūnas Gruslys, Marc Lanctot, Rémi Munos, Finbarr Timbers, Martin Schmid, Julien Perolat, **Dustin Morrill**, Vinicius Zambaldi, Jean-Baptiste Lespiau, John Schultz, Mohammad Gheshlaghi Azar, Michael Bowling, and Karl Tuyls. *The Advantage Regret-Matching Actor-Critic*. *arXiv*, Aug 27, 2020.](https://arxiv.org/abs/2008.12234)
 
 `2019`
-[Marc Lanctot, Edward Lockhart, Jean-Baptiste Lespiau, Vinicius Zambaldi, Satyaki Upadhyay, Julien Pérolat, Sriram Srinivasan, Finbarr Timbers, Karl Tuyls, Shayegan Omidshafiei, Daniel Hennes, **Dustin Morrill**, Paul Muller, Timo Ewalds, Ryan Faulkner, János Kramár, Bart De Vylder, Brennan Saeta, James Bradbury, David Ding, Sebastian Borgeaud, Matthew Lai, Julian Schrittwieser, Thomas Anthony, Edward Hughes, Ivo Danihelka, and Jonah Ryan-Davis. *OpenSpiel: A Framework for Reinforcement Learning in Games*. *arXiv, Aug 26, 2019*.](http://arxiv.org/abs/1908.09453)
+[Marc Lanctot, Edward Lockhart, Jean-Baptiste Lespiau, Vinicius Zambaldi, Satyaki Upadhyay, Julien Pérolat, Sriram Srinivasan, Finbarr Timbers, Karl Tuyls, Shayegan Omidshafiei, Daniel Hennes, **Dustin Morrill**, Paul Muller, Timo Ewalds, Ryan Faulkner, János Kramár, Bart De Vylder, Brennan Saeta, James Bradbury, David Ding, Sebastian Borgeaud, Matthew Lai, Julian Schrittwieser, Thomas Anthony, Edward Hughes, Ivo Danihelka, and Jonah Ryan-Davis. *OpenSpiel: A Framework for Reinforcement Learning in Games*. *arXiv*, Aug 26, 2019.](http://arxiv.org/abs/1908.09453)
 
 ## Work Experience
 
