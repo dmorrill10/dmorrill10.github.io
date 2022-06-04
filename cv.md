@@ -27,10 +27,9 @@ Machine intelligence researcher
 
 ## Currently
 
-Ph.D. candidate at the [University of Alberta](https://www.ualberta.ca/) studying algorithmic game theory and reinforcement learning.
-Graduating in Winter 2022.
-Seeking a research scientist position in Edmonton, Alberta, Canada or remote.
-Particularly interested in bringing algorithmic game theory methods outside of their usual purview to more general settings like continual learning.
+Research scientist in Edmonton at [Sony AI](https://www.ai.sony/) working on [GT Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/) development and extensions.
+Interested in bringing algorithmic game theory methods outside of their usual purview to more general settings like continual reinforcement learning.
+Graduating with a Ph.D. from the [University of Alberta](ualberta.ca) in Winter 2022.
 
 ## Education
 
@@ -106,6 +105,11 @@ Distinctions: First Class Honors, Industrial Internship Program
 [Marc Lanctot, Edward Lockhart, Jean-Baptiste Lespiau, Vinicius Zambaldi, Satyaki Upadhyay, Julien Pérolat, Sriram Srinivasan, Finbarr Timbers, Karl Tuyls, Shayegan Omidshafiei, Daniel Hennes, **Dustin Morrill**, Paul Muller, Timo Ewalds, Ryan Faulkner, János Kramár, Bart De Vylder, Brennan Saeta, James Bradbury, David Ding, Sebastian Borgeaud, Matthew Lai, Julian Schrittwieser, Thomas Anthony, Edward Hughes, Ivo Danihelka, and Jonah Ryan-Davis. *OpenSpiel: A Framework for Reinforcement Learning in Games*. *arXiv*, Aug 26, 2019.](http://arxiv.org/abs/1908.09453)
 
 ## Work Experience
+
+`2022-present`{: class='work-experience'}
+**Sony AI**, Edmonton
+
+*Research Scientist*
 
 `2019-2022`{: class='work-experience'}
 **University of Alberta**, Edmonton
@@ -499,4 +503,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Dec 15, 2021
+#### Last updated: Jun 4, 2022
