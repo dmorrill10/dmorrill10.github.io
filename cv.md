@@ -38,6 +38,8 @@ Graduating with a Ph.D. from the [University of Alberta](ualberta.ca) in Winter 
 
 Co-advisors: Professor Michael Bowling and Professor Amy Greenwald
 
+Thesis Title: Hindsight Rational Learning for Sequential Decision-Making: Foundations and Experimental Applications
+
 `2014-2016`
 **M.Sc., Computing Science**, University of Alberta
 
@@ -310,6 +312,9 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 ### Conference Reviewing
 
+`F2022`
+*NeurIPS*
+
 `F2021`
 *NeurIPS*
 
@@ -503,4 +508,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Video, card, and board games
 
-#### Last updated: Jun 4, 2022
+#### Last updated: Oct 11, 2022
