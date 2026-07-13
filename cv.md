@@ -3,7 +3,7 @@ layout: cv
 title: Dustin Morrill
 ---
 # Dustin Morrill
-Machine intelligence researcher
+Artificial intelligence researcher
 
 <p class="pdf-download-button hide-in-pdf"><button onclick="printFunction()">
 <i class="fas fa-print"></i></button>​</p>
@@ -14,7 +14,7 @@ Machine intelligence researcher
 </script>
 
 <div id="webaddress">
-  <i class="fas fa-envelope" aria-hidden="true"></i> <a>morrill<i class="fas fa-at"></i>ualberta.ca</a>
+  <i class="fas fa-envelope" aria-hidden="true"></i> <a>dmorrill10<i class="fas fa-at"></i>gmail.com</a>
   |
   <i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=Nwgz1bsAAAAJ&hl=en&authuser=1&oi=ao">Dustin Morrill</a>
   |
@@ -27,9 +27,8 @@ Machine intelligence researcher
 
 ## Currently
 
-Research scientist in Edmonton at [Sony AI](https://www.ai.sony/) working on [GT Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/) development and extensions.
-Interested in bringing algorithmic game theory methods outside of their usual purview to more general settings like continual reinforcement learning.
-Graduating with a Ph.D. from the [University of Alberta](ualberta.ca) in Winter 2022.
+Senior research scientist at [Sony AI](https://www.ai.sony/) working on AI to play Sony games and support game development. For example, [GT Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/) and the [Coachable Agents research paper](https://arxiv.org/abs/2607.00642).
+I use algorithmic game theory and reinforcement learning to design robust and performant AI systems in challenging domains.
 
 ## Education
 
@@ -56,15 +55,24 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ### Theses
 
+`2022`
+[**Dustin Morrill**. *Hindsight Rational Learning for Sequential Decision-Making: Foundations and Experimental Applications*. *Ph.D. thesis, Department of Computing Science, University of Alberta*, Sep 1, 2022. Edmonton, Canada.](assets/publications/Morrill_Dustin_R_202209_PhD.pdf)
+
 `2016`
 [**Dustin Morrill**. *Using Regret Estimation to Solve Games Compactly*. *M.Sc. thesis, Department of Computing Science, University of Alberta*, Apr 1, 2016. Edmonton, Canada.](assets/publications/Morrill_Dustin_R_201603_MSc.pdf)
 
 ### Journal Articles
 
+`2025`
+[Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. In *Transactions on Machine Learning Research*, Oct 1, 2025.](https://openreview.net/forum?id=NXvGOaYExG)
+
 `2017`
 [Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, **Dustin Morrill**, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. *DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker*. In *Science*, Mar 2, 2017.](assets/publications/17science.pdf)
 
 ### Refereed Conferences
+
+`2023`
+**Dustin Morrill**, Thomas J. Walsh, Daniel Hernandez, Peter R. Wurman, and Peter Stone. **. At the *Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI 2023)*, Jul 31, 2023. Pittsburgh, USA. [Acceptance Rate: 31.2%].
 
 `2021`
 [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021)*, Jul 18, 2021. Virtual. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
@@ -97,6 +105,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ### Technical Reports
 
+`2026`
+[Roberto Capobianco, Harm van Seijen, Nolan D. Bard, Neil Burch, Fatima Davelouis, Josh Davidson, and Alisa Devlic. **. *arXiv*, Jul 1, 2026.](https://arxiv.org/abs/2607.00642)
+
 `2021`
 [Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv*, Oct 29, 2021.](https://arxiv.org/abs/2110.15907)
 
@@ -111,7 +122,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 `2022-present`{: class='work-experience'}
 **Sony AI**, Edmonton
 
-*Research Scientist*
+*Senior Research Scientist*
 
 `2019-2022`{: class='work-experience'}
 **University of Alberta**, Edmonton
@@ -138,10 +149,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 *Application Developer*
 
-`May-Aug 2016`{: class='work-experience'}
-**University of Alberta**, Edmonton
 
-*Course Development Assistant*
 
 `May-Aug 2013`{: class='work-experience'}
 **University of Alberta**, Edmonton
@@ -153,11 +161,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 *Part-Time Undergraduate Researcher*
 
-`2011-2012`{: class='work-experience'}
-**CDL Systems Ltd.**, Calgary, AB, Canada
 
-
-*Software Developer Intern*
 
 `May-Aug 2010`{: class='work-experience'}
 **University of Alberta**, Edmonton
@@ -312,6 +316,15 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 
 ### Conference Reviewing
 
+`M2026`
+*JMLR*
+
+`W2024`
+*TMLR*
+
+`W2023`
+*TMLR*
+
 `F2022`
 *NeurIPS*
 
@@ -341,10 +354,39 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 `W2020`
 *AAAI-RLG*
 
-### Committees
+## Teaching
 
-`W2021`
-*CIFAR AICan Student Advisory Committee*
+`W2016`
+**CMPUT 275 (Introduction to Tangible Computing II)**, University of Alberta
+
+*Part-Time Teaching Assistant*
+
+`F2015`
+**CMPUT 101 (Introduction to Computing)**, University of Alberta
+
+*Full-Time Teaching Assistant*
+
+`W2014`
+**CMPUT 175 (Introduction to the Foundations of Computing II)**, University of Alberta
+
+*Full-Time Teaching Assistant*
+
+## Projects
+
+`2017`
+**Computer Poker Research Group Website (<http://poker.cs.ualberta.ca/>)**
+
+`2017`
+**Play DeepStack Web Application**
+
+`2015`
+**Play Cepheus Web Application (<http://poker-play.srv.ualberta.ca/>)**
+
+`2011`
+**Various Open-Source Projects (<https://github.com/dmorrill10>)**
+
+`2011`
+**ACPC Poker GUI Client (<https://github.com/dmorrill10/acpc_poker_gui_client>)**
 
 ## Accolades
 
@@ -411,101 +453,10 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 `2008`
 *Stuart Olson Faculty of Science Rising Star Entrance Scholarship ($1000)*
 
-## Teaching
-
-`W2016`
-**CMPUT 275 (Introduction to Tangible Computing II)**, University of Alberta
-
-*Part-Time Teaching Assistant*
-
-`F2015`
-**CMPUT 101 (Introduction to Computing)**, University of Alberta
-
-*Full-Time Teaching Assistant*
-
-`W2014`
-**CMPUT 175 (Introduction to the Foundations of Computing II)**, University of Alberta
-
-*Full-Time Teaching Assistant*
-
-## Projects
-
-`2017`
-**Computer Poker Research Group Website (<http://poker.cs.ualberta.ca/>)**
-
-`2017`
-**Play DeepStack Web Application**
-
-`2015`
-**Play Cepheus Web Application (<http://poker-play.srv.ualberta.ca/>)**
-
-`2011`
-**Various Open-Source Projects (<https://github.com/dmorrill10>)**
-
-`2011`
-**ACPC Poker GUI Client (<https://github.com/dmorrill10/acpc_poker_gui_client>)**
-
-## Community Service
-
-`Mar 2018`{: class='community-service'}
-**United Nations Habitat Urban Thinkers Campus: The Edmonton We Need: Accelerating the Transition to Sustainability**, Edmonton Clinic Health Academy, Edmonton, AB
-
-*Participant*
-
-`2010-2012`{: class='community-service'}
-**Golden Key International Honour Society, University of Alberta Chapter**, Edmonton, AB
-
-*VP Communications and Webmaster*
-
-`Jan 2012`{: class='community-service'}
-**The Mustard Seed**, Calgary, AB
-
-*Volunteer*
-
-`2010-2011`{: class='community-service'}
-**University of Alberta Campust Food Bank**, Edmonton, AB
-
-*Team Leader*
-
-`2009-2010`{: class='community-service'}
-**University of Alberta Campust Food Bank**, Edmonton, AB
-
-*Volunteer*
-
-`2009-2010`{: class='community-service'}
-**University of Alberta Faculty of Science**, Edmonton, AB
-
-*Science Mentor*
-
-`Oct 2009`{: class='community-service'}
-**University of Alberta Computing Science Department**, Edmonton, AB
-
-*Volunteer*
-
-`Sep 2009`{: class='community-service'}
-**Science 100**, Edmonton, AB
-
-*Volunteer*
-
-`2007-2008`{: class='community-service'}
-**Barrhead Skating Club**, Barrhead, AB
-
-*Assistant CanSkate Coach*
-
-`2007-2008`{: class='community-service'}
-**Barrhead Skating Club**, Barrhead, AB
-
-*Assistant Power Skating Coach*
-
-`2003-2004`{: class='community-service'}
-**Silent River Kung Fu**, Stony Plain, AB
-
-*Assistant Kung Fu Instructor*
-
 ## Personal Information
 
 - **Citizenship**: Canada
 - **Family**: Married
-- **Hobbies**: Video, card, and board games
+- **Hobbies**: Ice hockey and other sports. Video, card, and board games.
 
-#### Last updated: Oct 11, 2022
+#### Last updated: Jul 13, 2026
