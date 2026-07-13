@@ -22,7 +22,7 @@ Artificial intelligence researcher
   |
   <i class="fab fa-linkedin" aria-hidden="true"></i> <a href="https://ca.linkedin.com/in/dustinmorrill">dustinmorrill</a>
   |
-  <i class="fab fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/DustinRMorrill">DustinRMorrill</a>
+  <i class="fab fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/"></a>
 </div>
 
 ## Currently
