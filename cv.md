@@ -72,7 +72,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 ### Refereed Conferences
 
 `2023`
-**Dustin Morrill**, Thomas J. Walsh, Daniel Hernandez, Peter R. Wurman, and Peter Stone. **. At the *Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI 2023)*, Jul 31, 2023. Pittsburgh, USA. [Acceptance Rate: 31.2%].
+[**Dustin Morrill**, Thomas J. Walsh, Daniel Hernandez, Peter R. Wurman, and Peter Stone. *Composing Efficient, Robust Tests for Policy Selection*. At the *Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI 2023)*, Jul 31, 2023. Pittsburgh, USA. [Acceptance Rate: 31.2%].](https://proceedings.mlr.press/v216/morrill23a.html)
 
 `2021`
 [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021)*, Jul 18, 2021. Virtual. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
@@ -106,7 +106,7 @@ Distinctions: First Class Honors, Industrial Internship Program
 ### Technical Reports
 
 `2026`
-[Roberto Capobianco, Harm van Seijen, Nolan D. Bard, Neil Burch, Fatima Davelouis, Josh Davidson, and Alisa Devlic. **. *arXiv*, Jul 1, 2026.](https://arxiv.org/abs/2607.00642)
+[Roberto Capobianco, Harm van Seijen, Nolan D. Bard, Neil Burch, Fatima Davelouis, Josh Davidson, Alisa Devlic, Yunshu Du, Ishan Durugkar, Siddhant Gangapurwala, Daniel Hernandez, G. Zacharias Holland, Sahil Jain, Kenta Kawamoto, Raksha Kumaraswamy, Patrick MacAlpine, **Dustin Morrill**, Declan Oller, Francesco Riccio, Akanksha Saran, Craig Sherstan, Kaushik Subramanian, Thomas J. Walsh, Samuel Barrett, Kizza N. Frisbee, Mady Govil, Johannes Günther, Varun R. Kompella, James A. MacGlashan, Maxwell Svetlik, Michael D. Thomure, Jaden B. Travnik, Kevin Waugh, Elahe Aghapour, Florian Fuchs, Andreanne Lemay, Shruti Mishra, Takuma Seno, Peter Stone, Michael Spranger, and Peter R. Wurman. *Coachable Agents for Interactive Gameplay*. *arXiv*, Jul 1, 2026.](https://arxiv.org/abs/2607.00642)
 
 `2021`
 [Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv*, Oct 29, 2021.](https://arxiv.org/abs/2110.15907)
@@ -459,4 +459,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Ice hockey and other sports. Video, card, and board games.
 
-#### Last updated: Jul 13, 2026
+#### Last updated: Jul 16, 2026
