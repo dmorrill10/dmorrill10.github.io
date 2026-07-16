@@ -179,6 +179,16 @@ Distinctions: First Class Honors, Industrial Internship Program
 
 ## Supervision
 
+`2026-present`
+**Diego Gomez** at Sony AI
+
+*M.Sc., Universidad de Los Andes, Colombia*
+
+`Jan-Aug 2023`
+**Prabhat Nagarajan** at Sony AI
+
+*M.Sc., University of Texas at Austin*
+
 `2020-2021`
 **Montaser Mohammedalamen** at University of Alberta
 
