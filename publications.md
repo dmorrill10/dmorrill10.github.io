@@ -7,6 +7,7 @@ title: Dustin Morrill's Publications
 - [Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. In *Transactions on Machine Learning Research*, Oct 1, 2025.](https://openreview.net/forum?id=NXvGOaYExG)
 - [**Dustin Morrill**, Thomas J. Walsh, Daniel Hernandez, Peter R. Wurman, and Peter Stone. *Composing Efficient, Robust Tests for Policy Selection*. At the *Thirty-Ninth Conference on Uncertainty in Artificial Intelligence (UAI 2023)*, Jul 31, 2023. Pittsburgh, USA. [Acceptance Rate: 31.2%].](https://proceedings.mlr.press/v216/morrill23a.html)
 - [**Dustin Morrill**. *Hindsight Rational Learning for Sequential Decision-Making: Foundations and Experimental Applications*. *Ph.D. thesis, Department of Computing Science, University of Alberta*, Sep 1, 2022. Edmonton, Canada.](assets/publications/Morrill_Dustin_R_202209_PhD.pdf)
+- [**Dustin Morrill**, Esra'a Saleh, Michael Bowling, and Amy Greenwald. *Interpolating Between Softmax Policy Gradient and Neural Replicator Dynamics with Capped Implicit Exploration*. *Reinforcement Learning and Decision Making 2022, June 2022*, Jun 8, 2022. Providence, Rhode Island, USA.](assets/publications/neurd_cix.jun4_2022.pdf)
 - [**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *AAAI-22 Workshop on Reinforcement Learning in Games*, Feb 28, 2022. Vancouver, Canada.](https://arxiv.org/abs/2111.08102)
 - [Montaser Mohammedalamen, **Dustin Morrill**, Alexander Sieusahai, Yash Satsangi, and Michael Bowling. *Learning to Be Cautious*. *arXiv*, Oct 29, 2021.](https://arxiv.org/abs/2110.15907)
 - [**Dustin Morrill**, Ryan D'Orazio, Marc Lanctot, James R. Wright, Michael Bowling, and Amy Greenwald. *Efficient Deviation Types and Learning for Hindsight Rationality in Extensive-Form Games*. At the *Thirty-Eighth International Conference on Machine Learning (ICML 2021)*, Jul 18, 2021. Virtual. [Acceptance Rate: 21.5%].](https://arxiv.org/abs/2102.06973)
@@ -23,4 +24,4 @@ title: Dustin Morrill's Publications
 - [Kevin Waugh, **Dustin Morrill**, J. Andrew Bagnell, and Michael Bowling. *Solving Games with Functional Regret Estimation*. At the *Twenty-Ninth AAAI Conference on Artificial Intelligence*, Jan 25, 2015. Austin, USA. Pages 2138--2145. [Acceptance Rate: 26.7%].](assets/publications/15aaai-rcfr.pdf)
 {: .publications-list}
 
-#### Last updated: Jul 16, 2026
+#### Last updated: Aug 13, 2026

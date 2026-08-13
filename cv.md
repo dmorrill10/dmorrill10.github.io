@@ -98,6 +98,9 @@ Distinctions: First Class Honors, Industrial Internship Program
 ### Workshop Articles
 
 `2022`
+[**Dustin Morrill**, Esra'a Saleh, Michael Bowling, and Amy Greenwald. *Interpolating Between Softmax Policy Gradient and Neural Replicator Dynamics with Capped Implicit Exploration*. *Reinforcement Learning and Decision Making 2022, June 2022*, Jun 8, 2022. Providence, Rhode Island, USA.](assets/publications/neurd_cix.jun4_2022.pdf)
+
+`2022`
 [**Dustin Morrill**, Amy Greenwald, and Michael Bowling. *The Partially Observable History Process*. *AAAI-22 Workshop on Reinforcement Learning in Games*, Feb 28, 2022. Vancouver, Canada.](https://arxiv.org/abs/2111.08102)
 
 `2019`
@@ -469,4 +472,4 @@ Michael Bowling, **Dustin Morrill**, and Trevor Davis. *Computer poker demonstra
 - **Family**: Married
 - **Hobbies**: Ice hockey and other sports. Video, card, and board games.
 
-#### Last updated: Jul 16, 2026
+#### Last updated: Aug 13, 2026
